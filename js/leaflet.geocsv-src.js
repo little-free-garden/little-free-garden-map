@@ -90,9 +90,9 @@ L.GeoCSV = L.GeoJSON.extend({
     json["features"]=[];
     var titulos = this.options.titles;
 
-    csv = csv.split(this.options.lineSeparator);
+    csv = Papa.parse(csv).data;
     for (var num_linea = 0; num_linea < csv.length; num_linea++) {
-      var campos = csv[num_linea].trim().split(this.options.fieldSeparator)
+      var campos = csv[num_linea]
         , lng = parseFloat(campos[titulos.indexOf('lng')])
         , lat = parseFloat(campos[titulos.indexOf('lat')]);
       if (campos.length==titulos.length && lng<180 && lng>-180 && lat<90 && lat>-90) {

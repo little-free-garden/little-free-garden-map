@@ -28,8 +28,40 @@ form {
 }
 
 .popup-content {
-    height: 250px;
-    overflow-y: scroll;
+    height: 350px;
+    overflow-y: auto;
+    font-family: 'Raleway', sans-serif;
+}
+
+.popup-content h1 {
+    text-align: center;
+    font-size: 20pt;
+    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
+}
+
+.popup-content .logo {
+    width: 150px;
+    margin: 0 auto;
+    display: block;
+}
+
+.popup-content .garden-type {
+    font-size: 15pt;
+}
+
+.popup-content .description {
+    font-size: 12pt;
+}
+
+.popup-content .unique-id {
+    position: absolute;
+    bottom: 28px;
+    right: 18px;
+    border-radius: 15px;
+    padding: 5px 7px;
+    font-weight: bold;
+    border: 1px dashed #00A00F;
 }
 
 .map-label {

@@ -4,28 +4,27 @@ var map = new L.Map('map', {center: center, zoom: 2, maxZoom: maxZoom, layers: [
 
 var popupOpts = {
     autoPanPadding: new L.Point(5, 50),
-    autoPan: true
+    autoPan: true,
+    minWidth: 400
 };
 
 var points = L.geoCsv (null, {
     firstLineTitles: true,
+    deleteDoubleQuotes: false,
     fieldSeparator: fieldSeparator,
     onEachFeature: function (feature, layer) {
-        var popup = '<div class="popup-content"><table class="table table-striped table-bordered table-condensed">';
-        for (var clave in feature.properties) {
-            var title = points.getPropertyTitle(clave).strip();
-            var attr = feature.properties[clave];
-            if (title == labelColumn) {
-                layer.bindLabel(feature.properties[clave], {className: 'map-label'});
-            }
-            if (attr.indexOf('http') === 0) {
-                attr = '<a target="_blank" href="' + attr + '">'+ attr + '</a>';
-            }
-            if (attr) {
-                popup += '<tr><th>'+title+'</th><td>'+ attr +'</td></tr>';
-            }
-        }
-        popup += "</table></popup-content>";
+        var popup = '<div class="popup-content">';
+        var title = feature.properties['title'];
+        var description = feature.properties['description'];
+        var garden_type = feature.properties['garden_type'];
+        var unique_id = feature.properties['unique_id'];
+        var enabled = (feature.properties['enabled']) == "TRUE" ? true : false;
+        popup += "<h1>" + title + "</h1>";
+        popup += "<img class='logo' src='img/little-free-garden.jpg'/>";
+        popup += "<div><span class='garden-type'>" + garden_type + "</span></div>";
+        popup += "<div><span class='description'>" + description + "</span></div>";
+        popup += "<div class='unique-id'>#" + unique_id + "</div>";
+        popup += "</div>";
         layer.bindPopup(popup, popupOpts);
     },
     filter: function(feature, layer) {
@@ -58,6 +57,8 @@ var addCsvMarkers = function() {
     hits = 0;
     total = 0;
     filterString = document.getElementById('filter-string').value;
+
+    // strip out disabled points, then rebuild csv
 
     if (filterString) {
         $("#clear").fadeIn();
@@ -103,7 +104,14 @@ function populateTypeAhead(csv, delimiter) {
     var lines = csv.split("\n");
     for (var i = lines.length - 1; i >= 1; i--) {
         var items = lines[i].split(delimiter);
-        for (var j = items.length - 1; j >= 0; j--) {
+        // skip if the final field (ENABLED) is false:
+        if (items[items.length - 1] == "FALSE") {
+            continue;
+        }
+
+        // only include relevant fields
+        //for (var j = items.length - 4; j >= 0; j--) {
+        for (j=1; j <= 3; j++) {
             var item = items[j].strip();
             item = item.replace(/"/g,'');
             if (item.indexOf("http") !== 0 && isNaN(parseFloat(item))) {
@@ -136,6 +144,21 @@ $(document).ready( function() {
         },
         success: function(csv) {
             dataCsv = csv;
+            // remove things that are not enabled
+            var lines = dataCsv.split("\n");
+            var c = '';
+            for (var i=0; i < lines.length; i++) {
+                var items = lines[i].split(fieldSeparator);
+                if (items.length <= 1) {
+                    continue;
+                }
+                // skip if the final field (ENABLED) is false:
+                if (items[items.length - 1].strip() == "FALSE") {
+                    continue;
+                }
+                c += items.join(',') + '\n';
+            }
+            //dataCsv = c;
             populateTypeAhead(csv, fieldSeparator);
             typeAheadSource = ArrayToSet(typeAheadSource);
             $('#filter-string').typeahead({source: typeAheadSource});
