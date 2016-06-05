@@ -1,4 +1,4 @@
-var basemap = new L.TileLayer(baseUrl, {maxZoom: 17, attribution: baseAttribution, subdomains: subdomains, opacity: opacity});
+var basemap = new L.TileLayer(baseUrl, {maxZoom: 18, attribution: baseAttribution, subdomains: subdomains, opacity: opacity});
 var center = new L.LatLng(0, 0);
 var map = new L.Map('map', {center: center, zoom: 2, maxZoom: maxZoom, layers: [basemap]});
 
@@ -20,7 +20,7 @@ var points = L.geoCsv (null, {
         var unique_id = feature.properties['unique_id'];
         var enabled = (feature.properties['enabled']) == "TRUE" ? true : false;
         popup += "<h1>" + title + "</h1>";
-        popup += "<img class='logo' src='img/little-free-garden.jpg'/>";
+        popup += "<img class='logo' src='img/little-free-garden.png'/>";
         popup += "<div><span class='garden-type'>" + garden_type + "</span></div>";
         popup += "<div><span class='description'>" + description + "</span></div>";
         popup += "<div class='unique-id'>#" + unique_id + "</div>";
@@ -82,7 +82,7 @@ var addCsvMarkers = function() {
     } catch(err) {
         // pass
     }
-    
+
     if (total > 0) {
         $('#search-results').html("Showing " + hits + " of " + total);
     }
