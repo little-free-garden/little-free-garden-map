@@ -21,9 +21,9 @@ var points = L.geoCsv (null, {
         var enabled = (feature.properties['enabled']) == "TRUE" ? true : false;
         popup += "<h1>" + title + "</h1>";
         popup += "<img class='logo' src='img/little-free-garden.png'/>";
-        popup += "<div><span class='garden-type'>" + garden_type + "</span></div>";
+        popup += "<div><span class='garden-type'>" + garden_type + " (lfg-id #" + unique_id + ")</span></div>";
         popup += "<div><span class='description'>" + description + "</span></div>";
-        popup += "<div class='unique-id'>#" + unique_id + "</div>";
+        //popup += "<div class='unique-id'>#" + unique_id + "</div>";
         popup += "</div>";
         layer.bindPopup(popup, popupOpts);
     },
