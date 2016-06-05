@@ -56,15 +56,15 @@ var dataCsv;
 var addCsvMarkers = function() {
     hits = 0;
     total = 0;
-    filterString = document.getElementById('filter-string').value;
+    //filterString = document.getElementById('filter-string').value;
 
     // strip out disabled points, then rebuild csv
-
+    /*
     if (filterString) {
         $("#clear").fadeIn();
     } else {
         $("#clear").fadeOut();
-    }
+    }*/
 
     map.removeLayer(markers);
     points.clearLayers();
@@ -82,6 +82,7 @@ var addCsvMarkers = function() {
     } catch(err) {
         // pass
     }
+    
     if (total > 0) {
         $('#search-results').html("Showing " + hits + " of " + total);
     }
