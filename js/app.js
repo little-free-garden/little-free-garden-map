@@ -159,7 +159,7 @@ $(document).ready( function() {
                 }
                 c += items.join(',') + '\n';
             }
-            //dataCsv = c;
+            dataCsv = c;
             populateTypeAhead(csv, fieldSeparator);
             typeAheadSource = ArrayToSet(typeAheadSource);
             $('#filter-string').typeahead({source: typeAheadSource});
