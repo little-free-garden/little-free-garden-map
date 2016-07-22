@@ -1,5 +1,5 @@
 var dataUrl = 'data/gardens.csv';
-var maxZoom = 19;
+var maxZoom = 18;
 var fieldSeparator = ',';
 //var baseUrl = 'http://a.tile.openstreetmap.org/{z}/{x}/{y}.png';
 var baseUrl = 'https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoiYm9vaGVyYmciLCJhIjoiY2lxeHltenZtMDFwaWZsbThyd2ZxcGJkOCJ9.e-an2PAGrTEVnNWPOucpsQ';
