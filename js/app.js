@@ -18,17 +18,25 @@ var points = L.geoCsv (null, {
     firstLineTitles: true,
     deleteDoubleQuotes: false,
     fieldSeparator: fieldSeparator,
+    latitudeTitle: "Latitude", 
+    longitudeTitle: "Longitude",
     onEachFeature: function (feature, layer) {
+        debugger;
         var popup = '<div class="popup-content">';
         var title = feature.properties['title'];
         var description = feature.properties['description'];
         var garden_type = feature.properties['garden_type'];
         var unique_id = feature.properties['unique_id'];
+        var garden_address = '';
+        var latitude = feature.geometry.coordinates[0];
+        var longitude = feature.geometry.coordinates[1];
         var enabled = (feature.properties['enabled']) == "TRUE" ? true : false;
+        var form_url = 'https://docs.google.com/forms/d/e/1FAIpQLSfo1jwusgtErDfQypTVKPu4oSl_CuGaTM2vq_L0B0XRBSyPYw/viewform?usp=pp_url&entry.1582502205=' + encodeURI(unique_id) + '&entry.1461074459=' + encodeURI(title) + '&entry.1217063895=' + encodeURI(garden_type) + '&entry.1746594418=' + encodeURI(description) + '&entry.568521377=' + encodeURI(garden_address) + '&entry.836011485=' + encodeURI(latitude) + '&entry.436900010=' + encodeURI(longitude);
         popup += "<h1>" + title + "</h1>";
         popup += "<img class='logo' src='img/little-free-garden.png'/>";
         popup += "<div><span class='garden-type'>" + garden_type + " (lfg-id #" + unique_id + ")</span></div>";
         popup += "<div><span class='description'>" + description + "</span></div>";
+        popup += "<div><span class='edit-link'><a href=\"" + form_url + "\" target='_blank'>update this garden</a></span></div>";
         //popup += "<div class='unique-id'>#" + unique_id + "</div>";
         popup += "</div>";
         layer.bindPopup(popup, popupOpts);
@@ -107,12 +115,13 @@ function ArrayToSet(a) {
     return r;
 }
 
+ENABLED_INDEX = 7
 function populateTypeAhead(csv, delimiter) {
     var lines = csv.split("\n");
     for (var i = lines.length - 1; i >= 1; i--) {
         var items = lines[i].split(delimiter);
         // skip if the final field (ENABLED) is false:
-        if (items[items.length - 1] == "FALSE") {
+        if (items[ENABLED_INDEX] == "FALSE") {
             continue;
         }
 
@@ -160,7 +169,7 @@ $(document).ready( function() {
                     continue;
                 }
                 // skip if the final field (ENABLED) is false:
-                if (items[items.length - 1].strip() == "FALSE") {
+                if (items[ENABLED_INDEX].strip() == "FALSE") {
                     continue;
                 }
                 c += items.join(',') + '\n';
