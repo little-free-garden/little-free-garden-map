@@ -21,7 +21,6 @@ var points = L.geoCsv (null, {
     latitudeTitle: "Latitude", 
     longitudeTitle: "Longitude",
     onEachFeature: function (feature, layer) {
-        debugger;
         var popup = '<div class="popup-content">';
         var title = feature.properties['title'];
         var description = feature.properties['description'];
@@ -115,7 +114,7 @@ function ArrayToSet(a) {
     return r;
 }
 
-ENABLED_INDEX = 7
+ENABLED_INDEX = 4
 function populateTypeAhead(csv, delimiter) {
     var lines = csv.split("\n");
     for (var i = lines.length - 1; i >= 1; i--) {

@@ -5,5 +5,5 @@ echo "Syncing with github..."
 echo "Done! Run the following to push to the web:"
 echo "git add data/gardens.csv"
 echo "git commit -m \"Adding gardens.csv via automatic update\""
-echo "git push origin gh-pages"
+echo "git push lfg gh-pages"
 
