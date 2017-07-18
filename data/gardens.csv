@@ -3,7 +3,7 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,Address,Latitude,Longit
 2,The MidMo Garden,46.859273,-96.761660,TRUE,Variety Garden (Veggies/Herbs/etc),Little Free Garden #2 is located in the heart of Moorhead between Concordia College and MSUM. This garden is designed with the traditional Scandinavian Rosemaling design and features tomatoes and kale. Kale is the One Vegetable One Community Vegetable of the Year. ,,"1505 12th St S, Moorhead, MN 56560",46.859273,-96.761660
 3,APT Garden,46.880409,-96.782722,TRUE,,,,"225 4th Ave N., Fargo, ND 58103",46.880409,-96.782722
 4,The OG Garden,46.863083,-96.761667,TRUE,,,,"1101 12th St S, Moorhead, MN 56560",46.863083,-96.761667
-5,Backhaus Garden,46.882244,-96.753249,TRUE,Veggie Garden,"After learning about the Little Free Garden mission, I was determined to own one of my own.  Those three simple words, ""Grow. Take. Share."", really hit me.  If one person in their neighborhood grows, cultivates, and shares their Little Garden Produce, then maybe others can and will, too.  Mixture of herbs, tomatoes, and possibly peppers.",,"617 17th St N., Moorhead, MN 56560",46.882244,-96.753249
+5,Myers Little Garden,46.882244,-96.753249,TRUE,Veggie Garden,"This year we have planted one Roma Tomato and three hot peppers.  A couple rouge tomato plants came up from last year, too! ",,"617 17th St N., Moorhead, MN 56560",46.882244,-96.753249
 6,Kragnes/Hall Garden,46.870118,-96.766823,TRUE,,,,"417 9th Street S, Moorhead, MN 56560",46.870118,-96.766823
 7,Kohler Garden,46.760003,-96.445269,TRUE,,,,"9049 169th St S, Barnesville, MN 56514",46.760003,-96.445269
 8,Peppers and Tomatoes!,46.865179,-96.796955,TRUE,Variety Garden (Veggies/Herbs/etc),"We chose to create a Free Little Garden to do our part in increasing community access to healthy, fresh foods.  Our garden is stocked with some favorite veggie staples: peppers and tomatoes!  We've also lined the garden with zinnias to support our local pollinators.  After all, without them, our Free Little Garden would not be possible!",,"1105 10th Ave S., Fargo, ND 58103",46.865179,-96.796955
@@ -89,7 +89,7 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,Address,Latitude,Longit
 88,Little Free Garden #88,42.005125,-87.668570,TRUE,,,,"1519 W Pratt Blvd., Chicago, IL 60626",42.005125,-87.668570
 89,Little Free Garden #89,46.862245,-96.796232,TRUE,,,,"1210 11th St S., Fargo, ND 58103",46.862245,-96.796232
 90,Little Free Garden #90,46.868241,-96.915168,TRUE,,,,"945 7th Ave W., West Fargo, ND 58078",46.868241,-96.915168
-91,Little Free Orchard Garden,46.866005,-96.774766,TRUE,,,,"802 3rd Street S., Moorhead, MN 56560",46.866005,-96.774766
+91,Little Free Orchard Garden,46.866005,-96.774766,TRUE,Variety Garden,,,"802 3rd Street S., Moorhead, MN 56560",46.866005,-96.774766
 92,Little Free Garden #92,46.887053,-96.783523,TRUE,,,,"1006 3rd St N., Fargo, ND 58102",46.887053,-96.783523
 93,APT Garden,46.880409,-96.782722,TRUE,,,,"225 4th Ave N., Fargo, ND 58103",46.880409,-96.782722
 94,APT Garden,46.880409,-96.782722,TRUE,,,,"225 4th Ave N., Fargo, ND 58103",46.880409,-96.782722
@@ -102,3 +102,7 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,Address,Latitude,Longit
 101,Little Free Garden #101,34.167096,-118.142817,TRUE,,,,"371 East Claremont Street, Pasadena, CA 91104",34.167096,-118.142817
 102,The Hedge House Garden,46.878013,-96.755516,TRUE,Variety Garden (Veggies/Herbs/etc),"We have a mix of tomatoes, peppers, and celery",,"224 15th St N, Moorhead, MN 56560",46.878013,-96.755516
 103,Centralia Free Garden,,,,Herb Garden,,,"401 11th Ave South, Fargo, ND 58103",46.863593,-96.786232
+104,Rourke Art Museum,,,,Variety Garden (Veggies/Herbs/etc),,,"521 Main Ave, Moorhead, MN 56560",46.873603,-96.771221
+105,Oxendahl Garden,,,,Variety Garden (Veggies/Herbs/etc),,,"823 3rd St N, Fargo, ND 58102",46.885675,-96.782862
+106,Olson + Peterson Garden,,,,Variety Garden (Veggies/Herbs/etc),,,"1022 1st Ave N Fargo, ND 58102",46.877157,-96.795146
+107,Prairie Roots Food Co-op,,,,Variety Garden (Veggies/Herbs/etc),,,"1213 NP Ave, Fargo, ND 58102",46.876324,-96.797792
