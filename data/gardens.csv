@@ -101,19 +101,19 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,Address,Latitude,Longit
 100,Little Free Garden #100,41.663450,-91.533686,TRUE,,,,"123 E Market St, Iowa City, IO 52245",41.663450,-91.533686
 101,Little Free Garden #101,34.167096,-118.142817,TRUE,,,,"371 East Claremont Street, Pasadena, CA 91104",34.167096,-118.142817
 102,The Hedge House Garden,46.878013,-96.755516,TRUE,Variety Garden (Veggies/Herbs/etc),"We have a mix of tomatoes, peppers, and celery",,"224 15th St N, Moorhead, MN 56560",46.878013,-96.755516
-103,Centralia Free Garden,,,,Herb Garden,,,"401 11th Ave South, Fargo, ND 58103",46.863593,-96.786232
-104,Rourke Art Museum,,,,Variety Garden (Veggies/Herbs/etc),,,"521 Main Ave, Moorhead, MN 56560",46.873603,-96.771221
-105,Oxendahl Garden,,,,Variety Garden (Veggies/Herbs/etc),,,"823 3rd St N, Fargo, ND 58102",46.885675,-96.782862
-106,Olson + Peterson Garden,,,,Variety Garden (Veggies/Herbs/etc),,,"1022 1st Ave N Fargo, ND 58102",46.877157,-96.795146
-107,Prairie Roots Food Co-op,,,,Variety Garden (Veggies/Herbs/etc),,,"1213 NP Ave, Fargo, ND 58102",46.876324,-96.797792
-108,Little Free Garden #108,,,,,,,,,
-109,Little Free Garden #109,,,,,,,"89 Queen Street, Kingsville, ONT N9Y 2A1",42.034859,-82.742254
-110,Little Free Garden #110,,,,,,,"6903 51st Ave South, Seattle WA 98118",47.540562,-122.270157
-111,Little Free Garden #111,,,,,,,"4775 Coronado Ave, San Dieg, CA 92107  ",32.740104,-117.250952
-112,Little Free Garden #112,,,,,,,"1883 Ebers, San Diego, CA 92107",32.743307,-117.245972
-113,Little Free Garden #113,,,,,,,"5045 Saratoga Ave, San Diego, CA 92107 ",32.749052,-117.250409
-114,Little Free Garden #114,,,,,,,"4662 Santa Monica Ave, San Diego, CA 92107",32.744297,-117.244334
-115,Little Free Garden #115,,,,,,,"1678 Sunset Cliffs Blvd, San Diego, CA 92107 ",32.741204,-117.250889
+103,Centralia Free Garden,46.863593,-96.786232,,Herb Garden,Herb garden ... ,,"401 11th Ave South, Fargo, ND 58103",46.863593,-96.786232
+104,Rourke Art Museum,46.873603,-96.771221,,Variety Garden (Veggies/Herbs/etc),,,"521 Main Ave, Moorhead, MN 56560",46.873603,-96.771221
+105,Oxendahl Garden,46.885675,-96.782862,,Variety Garden (Veggies/Herbs/etc),,,"823 3rd St N, Fargo, ND 58102",46.885675,-96.782862
+106,Olson + Peterson Garden,46.877157,-96.795146,,Variety Garden (Veggies/Herbs/etc),,,"1022 1st Ave N Fargo, ND 58102",46.877157,-96.795146
+107,Prairie Roots Food Co-op,46.876324,-96.797792,,Variety Garden (Veggies/Herbs/etc),,,"1213 NP Ave, Fargo, ND 58102",46.876324,-96.797792
+108,Little Free Garden #108,,,,,Tomato Garden,,,,
+109,Little Free Garden #109,42.034859,-82.742254,,,,,"89 Queen Street, Kingsville, ONT N9Y 2A1",42.034859,-82.742254
+110,Little Free Garden #110,47.540562,-122.270157,,,,,"6903 51st Ave South, Seattle WA 98118",47.540562,-122.270157
+111,Little Free Garden #111,32.740104,-117.250952,,,,,"4775 Coronado Ave, San Dieg, CA 92107  ",32.740104,-117.250952
+112,Little Free Garden #112,32.743307,-117.245972,,,,,"1883 Ebers, San Diego, CA 92107",32.743307,-117.245972
+113,Little Free Garden #113,32.749052,-117.250409,,,,,"5045 Saratoga Ave, San Diego, CA 92107 ",32.749052,-117.250409
+114,Little Free Garden #114,32.744297,-117.244334,,,,,"4662 Santa Monica Ave, San Diego, CA 92107",32.744297,-117.244334
+115,Little Free Garden #115,32.741204,-117.250889,,,,,"1678 Sunset Cliffs Blvd, San Diego, CA 92107 ",32.741204,-117.250889
 116,,,,,,,,,,
 117,,,,,,,,,,
 118,,,,,,,,,,
@@ -123,4 +123,4 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,Address,Latitude,Longit
 122,,,,,,,,,,
 123,,,,,,,,,,
 124,,,,,,,,,,
-125,Little Free Garden #125,,,,,,,"36 Bismarck Ave, Wilton, ND 58579",47.160560,-100.784390
+125,Little Free Garden #125,47.160560,-100.784390,,,,,"36 Bismarck Ave, Wilton, ND 58579",47.160560,-100.784390
