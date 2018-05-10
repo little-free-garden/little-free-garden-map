@@ -113,14 +113,67 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,Address,Latitude,Longit
 112,Little Free Garden #112,32.743307,-117.245972,,,,,"1883 Ebers, San Diego, CA 92107",32.743307,-117.245972
 113,Little Free Garden #113,32.749052,-117.250409,,,,,"5045 Saratoga Ave, San Diego, CA 92107 ",32.749052,-117.250409
 114,Little Free Garden #114,32.744297,-117.244334,,,,,"4662 Santa Monica Ave, San Diego, CA 92107",32.744297,-117.244334
-115,Little Free Garden #115,32.741204,-117.250889,,,,,"1678 Sunset Cliffs Blvd, San Diego, CA 92107 ",32.741204,-117.250889
+115,OB Greens,32.741204,-117.250889,,Variety Garden (Veggies/Herbs/etc),"Greens, broccoli, brussels sprouts and a few herbs",,"1678 Sunset Cliffs Blvd, San Diego, CA 92107 ",32.741204,-117.250889
 116,,,,,,,,,,
 117,,,,,,,,,,
-118,,,,,,,,,,
-119,,,,,,,,,,
-120,,,,,,,,,,
-121,,,,,,,,,,
-122,,,,,,,,,,
-123,,,,,,,,,,
-124,,,,,,,,,,
-125,Little Free Garden #125,47.160560,-100.784390,,,,,"36 Bismarck Ave, Wilton, ND 58579",47.160560,-100.784390
+118,Little Free Garden #118,46.778744,-96.661448,,,,,"237 6th Ave W, Sabin, MN 56580",46.778744,-96.661448
+119,Little Free Garden #119,46.829723,-96.857126,,,,,"3308 Monroe St, Fargo, ND 58104",46.829723,-96.857126
+120,Little Free Garden #120,46.917591,-96.782812,,,,,"241 30th Ave N, Fargo, ND 58102",46.917591,-96.782812
+121,Little Free Garden #121,46.915735,-96.793406,,,,,"3002 10th St N #2, Fargo, ND 58102",46.915735,-96.793406
+122,Little Free Garden #122,46.840958,-96.751229,,,,,"3320 17th St S, Moorhead, MN 56560",46.840958,-96.751229
+123,Little Free Garden #123,44.946401,-93.358624,,,,,"3205 Colorado Ave S, St Louis, MN 55416",44.946401,-93.358624
+124,Little Free Garden #124,46.854833,-96.825752,,,,,"1667 W Gateway Cir S, Fargo, ND 58103",46.854833,-96.825752
+125,Little Free Garden #125,47.160560,-100.784390,,,,,"35 Bismarck Ave, Wilton, ND 58579",47.160560,-100.784390
+126,Little Free Garden #126,46.873605,-96.789972,,,,,"23 7th St S, 1 S, Fargo, ND 58103",46.873605,-96.789972
+127,Little Free Garden #127,46.568915,-96.073956,,,,,"613 1st Ave S, Pelican Rapids, MN 56572",46.568915,-96.073956
+128,Little Free Garden #128,46.797781,-96.889028,,,,,"6163 56th Ave S, Fargo, ND 58104",46.797781,-96.889028
+129,,,,,,,,,,
+130,,,,,,,,,,
+131,Little Free Garden #131,46.838472,-96.869930,,,,,"4906 28th Ave S, Fargo, ND 58104",46.838472,-96.869930
+132,Little Free Garden #132,38.895622,-77.022221,,,,,"420 7th St NW, Washington, DC 20004",38.895622,-77.022221
+133,Little Free Garden #133,46.880440,-96.810995,,,,,"322 19th St N, Fargo, ND 58102",46.880440,-96.810995
+134,Little Free Garden #134,46.907746,-96.793113,,,,,"2205 10th St N, Fargo, ND 58102",46.907746,-96.793113
+135,Little Free Garden #135,47.352327,-96.827236,,,,,"100 3rd St W, Halstad, MN 56548",47.352327,-96.827236
+136,Little Free Garden #136,46.881912,-96.683699,,,,,"503 13th St NE, Dilworth, MN 56529",46.881912,-96.683699
+137,Little Free Garden #137,45.564227,-94.162029,,,,,"320 6th Ave N, St Cloud, MN 56303",45.564227,-94.162029
+138,Little Free Garden #138,46.884867,-96.756823,,,,,"910 14th St N, Moorhead, MN 56560",46.884867,-96.756823
+139,,,,,,,,,,
+140,Little Free Garden #140,46.850302,-96.807987,,,,,"1833 16 1/2 St S, Fargo, ND 58103",46.850302,-96.807987
+141,,,,,,,,,,
+142,,,,,,,,,,
+143,,,,,,,,,,
+144,,,,,,,,,,
+145,,,,,,,,,,
+146,,,,,,,,,,
+147,,,,,,,,,,
+148,,,,,,,,,,
+149,Little Free Garden #149,,,,,,,"1180 Allendale Dr., Oviedo, FL 32765",28.677660,-81.189627
+150,Little Free Garden #150,,,,,,,"215 N Benton Drive, Sauk Rapids, MN 55379",45.590580,-94.169296
+151,,,,,,,,,,
+152,,,,,,,,,,
+153,,,,,,,,,,
+154,,,,,,,,,,
+155,,,,,,,,,,
+156,,,,,,,,,,
+157,,,,,,,,,,
+158,,,,,,,,,,
+159,,,,,,,,,,
+160,,,,,,,,,,
+161,,,,,,,,,,
+162,,,,,,,,,,
+163,,,,,,,,,,
+164,,,,,,,,,,
+165,,,,,,,,,,
+166,,,,,,,,,,
+167,,,,,,,,,,
+168,,,,,,,,,,
+169,,,,,,,,,,
+170,,,,,,,,,,
+171,Little Free Garden #171,,,,,,,,,
+172,Little Free Garden #172,,,,,,,"1126 Ivy Ave E, St Paul, MN 55106",44.980922,-93.052836
+173,Little Free Garden #173,,,,,,,"3419 2nd St N, Fargo, ND 58102",46.921834,-96.779003
+174,Little Free Garden #174,,,,,,,"6030 Oxford St, St Louis Park, MN 55416",44.935996,-93.357331
+175,Little Free Garden #175,,,,,,,"2485 Northridge Dr, North Mankato, MN 56003",44.177248,-94.055073
+176,Little Free Garden #176,,,,,,,"4249 Morgan Ave N, Minneapolis, MN 55412",45.032980,-93.304993
+177,Little Free Garden #177,,,,,,,"2109 University Ave, Grand Forks, ND 58203",47.921962,-97.057778
+178,Little Free Garden #178,,,,,,,"208 Central Ave, Cass Lake, MN 56633",47.380002,-94.603947
