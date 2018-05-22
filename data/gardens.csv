@@ -3,7 +3,7 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,Address,Latitude,Longit
 2,The MidMo Garden,46.859273,-96.761660,TRUE,Variety Garden (Veggies/Herbs/etc),Little Free Garden #2 is located in the heart of Moorhead between Concordia College and MSUM. This garden is designed with the traditional Scandinavian Rosemaling design and features tomatoes and kale. Kale is the One Vegetable One Community Vegetable of the Year. ,,"1505 12th St S, Moorhead, MN 56560",46.859273,-96.761660
 3,APT Garden,46.880409,-96.782722,TRUE,,,,"225 4th Ave N., Fargo, ND 58103",46.880409,-96.782722
 4,The OG Garden,46.863083,-96.761667,TRUE,,,,"1101 12th St S, Moorhead, MN 56560",46.863083,-96.761667
-5,Myers Little Garden,46.882244,-96.753249,TRUE,Veggie Garden,"This year we have planted one Roma Tomato and three hot peppers.  A couple rouge tomato plants came up from last year, too! ",,"617 17th St N., Moorhead, MN 56560",46.882244,-96.753249
+5,Myers Garden,46.882244,-96.753249,TRUE,Herb Garden,"We have planted Thyme, Basil, Rosemary, and Sage this year.",,"617 17th St N., Moorhead, MN 56560",46.882244,-96.753249
 6,Kragnes/Hall Garden,46.870118,-96.766823,TRUE,,,,"417 9th Street S, Moorhead, MN 56560",46.870118,-96.766823
 7,Kohler Garden,46.760003,-96.445269,TRUE,,,,"9049 169th St S, Barnesville, MN 56514",46.760003,-96.445269
 8,Peppers and Tomatoes!,46.865179,-96.796955,TRUE,Variety Garden (Veggies/Herbs/etc),"We chose to create a Free Little Garden to do our part in increasing community access to healthy, fresh foods.  Our garden is stocked with some favorite veggie staples: peppers and tomatoes!  We've also lined the garden with zinnias to support our local pollinators.  After all, without them, our Free Little Garden would not be possible!",,"1105 10th Ave S., Fargo, ND 58103",46.865179,-96.796955
@@ -134,7 +134,7 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,Address,Latitude,Longit
 133,Little Free Garden #133,46.880440,-96.810995,,,,,"322 19th St N, Fargo, ND 58102",46.880440,-96.810995
 134,Little Free Garden #134,46.907746,-96.793113,,,,,"2205 10th St N, Fargo, ND 58102",46.907746,-96.793113
 135,Little Free Garden #135,47.352327,-96.827236,,,,,"100 3rd St W, Halstad, MN 56548",47.352327,-96.827236
-136,Little Free Garden #136,46.881912,-96.683699,,,,,"503 13th St NE, Dilworth, MN 56529",46.881912,-96.683699
+136,Little Free Garden #136,46.881912,-96.683699,,"Variety Garden (Purple Cauliflower, Brocolli, Carrots, Romaine Lettuce, Onions, Basil, Pepper Plant, Snap Peas)",,,"503 13th St NE, Dilworth, MN 56529",46.881912,-96.683699
 137,Little Free Garden #137,45.564227,-94.162029,,,,,"320 6th Ave N, St Cloud, MN 56303",45.564227,-94.162029
 138,Little Free Garden #138,46.884867,-96.756823,,,,,"910 14th St N, Moorhead, MN 56560",46.884867,-96.756823
 139,,,,,,,,,,
@@ -177,3 +177,9 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,Address,Latitude,Longit
 176,Little Free Garden #176,,,,,,,"4249 Morgan Ave N, Minneapolis, MN 55412",45.032980,-93.304993
 177,Little Free Garden #177,,,,,,,"2109 University Ave, Grand Forks, ND 58203",47.921962,-97.057778
 178,Little Free Garden #178,,,,,,,"208 Central Ave, Cass Lake, MN 56633",47.380002,-94.603947
+179,Little Free Garden #179,,,,,,,"3225 15th Ave S., Fargo, ND 58103",46.857310,-96.831659
+180,Little Free Garden #180,,,,,,,"11355 196th Ln NW, Elk River, MN 55330",45.327384,-93.555649
+181,Little Free Garden #181,,,,,,,"2047 Margaret St., Saint Paul, MN 55119",44.961529,-93.013962
+182,Little Free Garden #182,,,,,,,"3824 Aldrich Ave S., Minneapolis, MN 55409",44.933230,-93.289833
+183,Little Free Garden #183,,,,,,,"501 10th St. N., Moorhead, MN 56560",46.880567,-96.764636
+184,The Garden Gallery,,,,,,,"2721 N. 206th St., Elkhorn, NE 68022",41.284107,-96.237574
