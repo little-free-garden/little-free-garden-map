@@ -147,8 +147,8 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,Address,Latitude,Longit
 146,,,,,,,,,,
 147,,,,,,,,,,
 148,,,,,,,,,,
-149,Little Free Garden #149,,,TRUE,,,,"1180 Allendale Dr., Oviedo, FL 32765",28.677660,-81.189627
-150,Little Free Garden #150,,,TRUE,,,,"215 N Benton Drive, Sauk Rapids, MN 55379",45.590580,-94.169296
+149,Little Free Garden #149,28.677660,-81.189627,TRUE,,,,"1180 Allendale Dr., Oviedo, FL 32765",28.677660,-81.189627
+150,Little Free Garden #150,45.590580,-94.169296,TRUE,,,,"215 N Benton Drive, Sauk Rapids, MN 55379",45.590580,-94.169296
 151,,,,,,,,,,
 152,,,,,,,,,,
 153,,,,,,,,,,
@@ -170,16 +170,16 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,Address,Latitude,Longit
 169,,,,,,,,,,
 170,,,,,,,,,,
 171,Little Free Garden #171,,,TRUE,,,,,,
-172,Little Free Garden #172,,,TRUE,,,,"1126 Ivy Ave E, St Paul, MN 55106",44.980922,-93.052836
-173,Little Free Garden #173,,,TRUE,,,,"3419 2nd St N, Fargo, ND 58102",46.921834,-96.779003
-174,Little Free Garden #174,,,TRUE,,,,"6030 Oxford St, St Louis Park, MN 55416",44.935996,-93.357331
-175,Little Free Garden #175,,,TRUE,,,,"2485 Northridge Dr, North Mankato, MN 56003",44.177248,-94.055073
-176,Little Free Garden #176,,,TRUE,,,,"4249 Morgan Ave N, Minneapolis, MN 55412",45.032980,-93.304993
-177,Little Free Garden #177,,,TRUE,,,,"2109 University Ave, Grand Forks, ND 58203",47.921962,-97.057778
-178,Little Free Garden #178,,,TRUE,,,,"208 Central Ave, Cass Lake, MN 56633",47.380002,-94.603947
-179,Little Free Garden #179,,,TRUE,,,,"3225 15th Ave S., Fargo, ND 58103",46.857310,-96.831659
-180,Little Free Garden #180,,,TRUE,,,,"11355 196th Ln NW, Elk River, MN 55330",45.327384,-93.555649
-181,Little Free Garden #181,,,TRUE,,,,"2047 Margaret St., Saint Paul, MN 55119",44.961529,-93.013962
-182,Little Free Garden #182,,,TRUE,,,,"3824 Aldrich Ave S., Minneapolis, MN 55409",44.933230,-93.289833
-183,Little Free Garden #183,,,TRUE,,,,"501 10th St. N., Moorhead, MN 56560",46.880567,-96.764636
-184,The Garden Gallery,,,TRUE,,,,"2721 N. 206th St., Elkhorn, NE 68022",41.284107,-96.237574
+172,Little Free Garden #172,44.980922,-93.052836,TRUE,,,,"1126 Ivy Ave E, St Paul, MN 55106",44.980922,-93.052836
+173,Little Free Garden #173,46.921834,-96.779003,TRUE,,,,"3419 2nd St N, Fargo, ND 58102",46.921834,-96.779003
+174,Little Free Garden #174,44.935996,-93.357331,TRUE,,,,"6030 Oxford St, St Louis Park, MN 55416",44.935996,-93.357331
+175,Little Free Garden #175,44.177248,-94.055073,TRUE,,,,"2485 Northridge Dr, North Mankato, MN 56003",44.177248,-94.055073
+176,Little Free Garden #176,45.032980,-93.304993,TRUE,,,,"4249 Morgan Ave N, Minneapolis, MN 55412",45.032980,-93.304993
+177,Little Free Garden #177,47.921962,-97.057778,TRUE,,,,"2109 University Ave, Grand Forks, ND 58203",47.921962,-97.057778
+178,Little Free Garden #178,47.380002,-94.603947,TRUE,,,,"208 Central Ave, Cass Lake, MN 56633",47.380002,-94.603947
+179,Little Free Garden #179,46.857310,-96.831659,TRUE,,,,"3225 15th Ave S., Fargo, ND 58103",46.857310,-96.831659
+180,Little Free Garden #180,45.327384,-93.555649,TRUE,,,,"11355 196th Ln NW, Elk River, MN 55330",45.327384,-93.555649
+181,Little Free Garden #181,44.961529,-93.013962,TRUE,,,,"2047 Margaret St., Saint Paul, MN 55119",44.961529,-93.013962
+182,Little Free Garden #182,44.933230,-93.289833,TRUE,,,,"3824 Aldrich Ave S., Minneapolis, MN 55409",44.933230,-93.289833
+183,Little Free Garden #183,46.880567,-96.764636,TRUE,,,,"501 10th St. N., Moorhead, MN 56560",46.880567,-96.764636
+184,The Garden Gallery,41.284107,-96.237574,TRUE,,,,"2721 N. 206th St., Elkhorn, NE 68022",41.284107,-96.237574
