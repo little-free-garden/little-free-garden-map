@@ -12,7 +12,7 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,Address,Latitude,Longit
 11,Dahlmeier Garden,46.868584,-96.765896,TRUE,,,,"522 9th St S., Moorhead, MN 56560",46.868584,-96.765896
 12,Larson Garden,46.897533,-96.796175,TRUE,,,,"1114 15th Ave N., Fargo, ND 58102",46.897533,-96.796175
 13,A. Altenburg Garden,46.883730,-96.776333,TRUE,Tomato Garden,I really like the concept of being able to provide fresh produce to people in the community and see it as a way of bringing all of us just a little closer together.,,"15 North Terrace N., Fargo, ND 58102",46.883730,-96.776333
-14,GarDEN of Nerds,46.886018,-96.786555,TRUE,Variety Garden (Veggies/Herbs/etc),"Cherry tomatoes, better boy tomatoes, cayenne peppers, basil and mint!! Come and get it!",,"513 9th Ave N., Fargo, ND 58102",46.886018,-96.786555
+14,GarDEN of Nerds,46.886018,-96.786555,TRUE,Variety Garden (Veggies/Herbs/etc),"Basil, rosemary, peppermint, cucumbers and cherry tomatoes are available!",,"513 9th Ave N., Fargo, ND 58102",46.886018,-96.786555
 15,L. Altenburg Garden,46.890296,-96.786619,TRUE,Berries,"Strawberries, blueberries, and raspberries - please come and help yourself!",,"1146 5th St N., Fargo, ND 58102",46.890296,-96.786619
 16,Keel Garden,46.833176,-96.816691,TRUE,,,,"2265 32nd Ave S., Fargo, ND 58102",46.833176,-96.816691
 17,Westrate,46.863456,-96.580777,TRUE,Variety Garden (Veggies/Herbs/etc),"As a way to spread fresh, organic, produce to the community, we planted a little free garden! Come enjoy some complimentary cherry tomatoes, peppers, and herbs!",,"1113 Parke Ave S., Glyndon, MN 56547",46.863456,-96.580777
@@ -71,13 +71,13 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,Address,Latitude,Longit
 70,Little Free Garden #70,46.8711209,-96.871952,TRUE,,,,"409 17th St E., West Fargo, ND 58078",46.8711209,-96.871952
 71,Little Free Garden #71,46.828800,-96.796874,TRUE,,,,"3408 11th St S., Fargo, ND 58104",46.828800,-96.796874
 72,Little Free Garden #72,46.869707,-96.794416,TRUE,,,,"923 5th Ave S., Fargo, ND 58103",46.869707,-96.794416
-73,Little Free Garden #73,46.867902,-96.790233,TRUE,,,,"621 7th St S., Fargo, ND 58103",46.867902,-96.790233
+73,Growy McGarden ,46.867902,-96.790233,TRUE,Herb Garden,Is in a low sun area so just has some herbs planted,,"621 7th St S., Fargo, ND 58103",46.867902,-96.790233
 74,Little Free Garden #74,47.907835,-97.012091,TRUE,,,,"1029 5th Ave SE, East Grand Forks, MN 56721",47.907835,-97.012091
 75,Staybridge Suites Garden,47.910816,-97.088173,TRUE,Variety Garden (Veggies/Herbs/etc),Variety Garden available to our guests and the public,,"1175 42nd St S., Grand Forks, ND 58201",47.910816,-97.088173
 76,Little Free Garden #76,46.861938,-96.789989,TRUE,,,,"1218 7th St S., Fargo, ND 58103",46.861938,-96.789989
 77,Little Free Garden #77,46.759125,-96.817780,TRUE,,,,"8800 25th St S., Fargo, ND 58104",46.759125,-96.817780
-78,Jera,46.851121,-96.760558,TRUE,Variety Garden (Veggies/Herbs/etc),"Grape Tomatoes, Mini orange peppers, green peppers, green beans, carrots, radishes and hopefully cucumbers if I can get a trellis to work and basil.",,"1131 24th Ave S., Moorhead, MN 56560",46.851121,-96.760558
-79,Dig into Gardening,46.879733,-96.764296,TRUE,Variety Garden (Veggies/Herbs/etc),"This decoupaged garden bed repurposes an old fingerpaintings from a bulletin board created for the Summer Reading Program in 2014 'Dig into Reading' at the Moorhead library. The Little Free Garden project is a great opportunity to dig ito gardening and healthy food! This brightly colored bed features peppers (mystery variety), cherry tomatoes, parsley, thyme, kale, greens and carrots. This North Moorhead neighborhood features a little free library across the street, lots of dogs, good chalk art and we frequently have lemonade stands. Stop by and visit this summer or harvest season!",,"412 10th St N., Moorhead, MN 56560",46.879733,-96.764296
+78,Jera,46.851121,-96.760558,TRUE,Variety Garden (Veggies/Herbs/etc),"Tomatoes, Mini orange peppers, green peppers, jalapeño peppers, carrots, radishes and hopefully cucumbers if I can get a trellis to work and basil.",,"1131 24th Ave S., Moorhead, MN 56560",46.851121,-96.760558
+79,Dig it!,46.879733,-96.764296,TRUE,Variety Garden (Veggies/Herbs/etc),"This decoupaged garden bed repurposes an old fingerpaintings from a bulletin board created for the Summer Reading Program in 2014 'Dig into Reading' at the Moorhead library. This brightly colored bed features hungarian wax peppers, atomic cherry tomatoes, parsley, marjoriam, greens and carrots. This North Moorhead neighborhood features a little free library across the street, lots of dogs, good chalk art and we frequently have lemonade stands. Stop by and visit this summer or harvest season!",,"412 10th St N., Moorhead, MN 56560",46.879733,-96.764296
 80,Little Free Garden #80,46.859116,-96.761306,TRUE,,,,"1506 12th St S., Moorhead, MN 56560",46.859116,-96.761306
 81,Little Free Garden #81,46.873564,-96.774261,TRUE,,,,"315 Main Ave, Moorhead, MN 56560",46.873564,-96.774261
 82,Little Free Garden #82,46.858913,-96.793778,TRUE,Variety Garden (Veggies/Herbs/etc),"Spinach, lettuce, kale and onions",,"1417 9th St S., Fargo, ND 58103",46.858913,-96.793778
@@ -103,7 +103,7 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,Address,Latitude,Longit
 102,The Hedge House Garden,46.878013,-96.755516,TRUE,Variety Garden (Veggies/Herbs/etc),"We have a mix of tomatoes, peppers, and celery",,"224 15th St N, Moorhead, MN 56560",46.878013,-96.755516
 103,Centralia Free Garden,46.863593,-96.786232,TRUE,Herb Garden,Herb garden ... ,,"401 11th Ave South, Fargo, ND 58103",46.863593,-96.786232
 104,Rourke Art Museum,46.873603,-96.771221,TRUE,Variety Garden (Veggies/Herbs/etc),,,"521 Main Ave, Moorhead, MN 56560",46.873603,-96.771221
-105,Oxendahl Garden,46.885675,-96.782862,TRUE,Variety Garden (Veggies/Herbs/etc),,,"823 3rd St N, Fargo, ND 58102",46.885675,-96.782862
+105,Fred,46.885675,-96.782862,TRUE,Greens,"Kale, arugula, lettuce, and golden beets",,"823 3rd St N, Fargo, ND 58102",46.885675,-96.782862
 106,Olson + Peterson Garden,46.877157,-96.795146,TRUE,Variety Garden (Veggies/Herbs/etc),,,"1022 1st Ave N Fargo, ND 58102",46.877157,-96.795146
 107,Prairie Roots Food Co-op,46.876324,-96.797792,TRUE,Variety Garden (Veggies/Herbs/etc),,,"1213 NP Ave, Fargo, ND 58102",46.876324,-96.797792
 108,Little Free Garden #108,,,,,Tomato Garden,,,,
@@ -125,7 +125,7 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,Address,Latitude,Longit
 124,Little Free Garden #124,46.854833,-96.825752,TRUE,,,,"1667 W Gateway Cir S, Fargo, ND 58103",46.854833,-96.825752
 125,Little Free Garden #125,47.160560,-100.784390,TRUE,,,,"35 Bismarck Ave, Wilton, ND 58579",47.160560,-100.784390
 126,Little Free Garden #126,46.873605,-96.789972,TRUE,,,,"23 7th St S, 1 S, Fargo, ND 58103",46.873605,-96.789972
-127,Little Free Garden #127,46.568915,-96.073956,TRUE,,,,"613 1st Ave S, Pelican Rapids, MN 56572",46.568915,-96.073956
+127,Salsa Garden,46.568915,-96.073956,TRUE,Salsa Garden,"This garden has White Spanish Onions, Cilantro, Sweet Baby Bell Peppers, Purple Cherokee Tomato and Tigerella Tomato.  There are also Marigolds and Snapdragons for the pollinators! ",,"613 1st Ave S, Pelican Rapids, MN 56572",46.568915,-96.073956
 128,Little Free Garden #128,46.797781,-96.889028,TRUE,,,,"6163 56th Ave S, Fargo, ND 58104",46.797781,-96.889028
 129,,,,,,,,,,
 130,,,,,,,,,,
@@ -169,7 +169,7 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,Address,Latitude,Longit
 168,,,,,,,,,,
 169,,,,,,,,,,
 170,,,,,,,,,,
-171,Little Free Garden #171,,,TRUE,,,,,,
+171,Little Free Garden #171,,,,,,,,,
 172,Little Free Garden #172,44.980922,-93.052836,TRUE,,,,"1126 Ivy Ave E, St Paul, MN 55106",44.980922,-93.052836
 173,Little Free Garden #173,46.921834,-96.779003,TRUE,,,,"3419 2nd St N, Fargo, ND 58102",46.921834,-96.779003
 174,Little Free Garden #174,44.935996,-93.357331,TRUE,,,,"6030 Oxford St, St Louis Park, MN 55416",44.935996,-93.357331
@@ -179,7 +179,13 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,Address,Latitude,Longit
 178,Little Free Garden #178,47.380002,-94.603947,TRUE,,,,"208 Central Ave, Cass Lake, MN 56633",47.380002,-94.603947
 179,Little Free Garden #179,46.857310,-96.831659,TRUE,,,,"3225 15th Ave S., Fargo, ND 58103",46.857310,-96.831659
 180,Little Free Garden #180,45.327384,-93.555649,TRUE,,,,"11355 196th Ln NW, Elk River, MN 55330",45.327384,-93.555649
-181,Little Free Garden #181,44.961529,-93.013962,TRUE,,,,"2047 Margaret St., Saint Paul, MN 55119",44.961529,-93.013962
+181,Margaret Acres,44.961529,-93.013962,TRUE,Variety Garden (Veggies/Herbs/etc),Mix of vegetables and flowers in boulevard area between sidewalk and street,,"2047 Margaret St., Saint Paul, MN 55119",44.961529,-93.013962
 182,Little Free Garden #182,44.933230,-93.289833,TRUE,,,,"3824 Aldrich Ave S., Minneapolis, MN 55409",44.933230,-93.289833
 183,Little Free Garden #183,46.880567,-96.764636,TRUE,,,,"501 10th St. N., Moorhead, MN 56560",46.880567,-96.764636
 184,The Garden Gallery,41.284107,-96.237574,TRUE,,,,"2721 N. 206th St., Elkhorn, NE 68022",41.284107,-96.237574
+185,Little Free Garden #185,45.032980,-93.304993,TRUE,,,,"4249 Morgan Ave N, Minneapolis, MN 55412",45.032980,-93.304993
+186,Little Free Garden #186,48.825819,-100.451151,TRUE,,,,"616 Bennett St., Bottineau, ND 58318",48.825819,-100.451151
+187,Mary's Sharing Garden ,45.483161,-98.451893,TRUE,Tomato Garden,"Tomatoes, peppers, cukes",,"2507 Primrose Lane, Aberdeen, SD 57401",45.483161,-98.451893
+188,Little Free Garden #188,46.860363,-96.829634,TRUE,,,,"1350 32nd St S., Fargo, ND 58103",46.860363,-96.829634
+189,Little Free Garden #189,46.893721,-96.765164,TRUE,,,,"996 18th Avenue Cir N, Moorhead, MN 56560",46.893721,-96.765164
+190,Little Free Garden #190,44.884635,-93.302563,TRUE,,,,"6514 Knox Ave S., Richfield, MN 55423",44.884635,-93.302563
