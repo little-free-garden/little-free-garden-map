@@ -98,7 +98,7 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,Address,Latitude,Longit
 97,Little Free Garden #97,45.119543,-93.149279,TRUE,,,,"5904 Fernwood Street, Shoreview, MN 55126",45.119543,-93.149279
 98,Little Free Garden #98,39.815907,-86.153350,TRUE,,,,"128 E 33rd Street, Indianapolis, IN 46205",39.815907,-86.153350
 99,Little Free Garden #99,,,FALSE,,,,,,
-100,Little Free Garden #100,41.663450,-91.533686,TRUE,,,,"123 E Market St, Iowa City, IO 52245",41.663450,-91.533686
+100,Little Free Garden #100,41.663450,-91.533686,TRUE,,,,"123 E Market St, Iowa City, IA 52245",41.663450,-91.533686
 101,Little Free Garden #101,34.167096,-118.142817,TRUE,,,,"371 East Claremont Street, Pasadena, CA 91104",34.167096,-118.142817
 102,The Hedge House Garden,46.878013,-96.755516,TRUE,Variety Garden (Veggies/Herbs/etc),"We have a mix of tomatoes, peppers, and celery",,"224 15th St N, Moorhead, MN 56560",46.878013,-96.755516
 103,Centralia Free Garden,46.863593,-96.786232,TRUE,Herb Garden,Herb garden ... ,,"401 11th Ave South, Fargo, ND 58103",46.863593,-96.786232
@@ -163,9 +163,9 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,Address,Latitude,Longit
 162,,,,,,,,,,
 163,,,,,,,,,,
 164,,,,,,,,,,
-165,,,,,,,,,,
+165,Little Free Garden #165,47.655624,-101.413124,,,,,"407 3rd St NE, Garrison, ND 58540",47.655624,-101.413124
 166,,,,,,,,,,
-167,,,,,,,,,,
+167,Little Free Garden #167,47.652640,-101.411727,,,,,"333 1st Ave NE, Garrison, ND 58540",47.652640,-101.411727
 168,,,,,,,,,,
 169,,,,,,,,,,
 170,,,,,,,,,,
@@ -191,8 +191,11 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,Address,Latitude,Longit
 190,Little Free Garden #190,44.884635,-93.302563,TRUE,Variety Garden (Veggies/Herbs/etc),"On-site and drop-off location for church members' produce!  We'll let you know what's here, and when.",,"1620 E 46th Street, Minneapolis, MN 55407",44.884635,-93.302563
 191,Little Free Garden #191,44.801228,-68.789686,TRUE,Variety Garden (Veggies/Herbs/etc),"In-ground garden featuring a variety of tomatoes, peppers, peas, green beans, herbs, and salad greens with a backdrop of sunflowers. Hoping for pumpkins in the fall!",,"35 Elizabeth Ave, Bangor, ME 04410",44.801228,-68.789686
 192,Little Free Garden #192,46.860541,-96.788653,TRUE,,,,"1328 6th St S., Fargo, ND 58103",46.860541,-96.788653
-193,The Front Forty,45.009104,-93.318773,,Variety Garden (Veggies/Herbs/etc),"Tomatoes, baby eggplant, sweet & hot peppers, and herbs! The plants are currently very small. Hoping to have some herbs ready in the next few weeks.",,"2741 Xerxes Ave N., Robbinsdale, MN 55422",45.009104,-93.318773
-194,Little Free Garden #194,46.858175,-96.771301,,,,,"1605 6th St S., Moorhead, MN 56560",46.858175,-96.771301
-195,Little Free Garden #195,46.805222,-100.780567,,,,,"717 E Main Ave., Bismarck, ND 58501",46.805222,-100.780567
-196,Little Free Garden #196,46.857084,-96.784752,,,,,"4458 Elmwood Ave S., Fargo, ND 58103",46.857084,-96.784752
-197,Little Free Garden #197,47.932694,-97.090625,,,,,"4251 Gateway Drive, Grand Forks, ND 58203",47.932694,-97.090625
+193,The Front Forty,45.009104,-93.318773,TRUE,Variety Garden (Veggies/Herbs/etc),"Tomatoes, baby eggplant, sweet & hot peppers, and herbs! The plants are currently very small. Hoping to have some herbs ready in the next few weeks.",,"2741 Xerxes Ave N., Robbinsdale, MN 55422",45.009104,-93.318773
+194,Little Free Garden #194,46.858175,-96.771301,TRUE,,,,"1605 6th St S., Moorhead, MN 56560",46.858175,-96.771301
+195,Little Free Garden #195,46.805222,-100.780567,TRUE,,,,"717 E Main Ave., Bismarck, ND 58501",46.805222,-100.780567
+196,Sunshine Garden,46.857084,-96.784752,TRUE,Variety Garden (Veggies/Herbs/etc),"Tomatoes, cucumbers, green beans and carrots! ",,"4458 Elmwood Ave S., Fargo, ND 58103",46.857084,-96.784752
+197,Little Free Garden #197,47.932694,-97.090625,TRUE,,,,"4251 Gateway Drive, Grand Forks, ND 58203",47.932694,-97.090625
+,Little Free Garden #198,35.409267,-80.872392,TRUE,,,,"14423 Lyon Hill Ln., Huntersville, NC 28078",35.409267,-80.872392
+,Little Free Garden #199,41.305180,-96.040189,TRUE,,,,"8175 Camden Ave, Omaha, NE 68134",41.305180,-96.040189
+,Little Free Garden #200,41.362529,-93.545863,TRUE,,,,"304 N 10th St., Indianola, IA 50125",41.362529,-93.545863
