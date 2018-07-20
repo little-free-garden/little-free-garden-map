@@ -163,9 +163,9 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,Address,Latitude,Longit
 162,,,,,,,,,,
 163,,,,,,,,,,
 164,,,,,,,,,,
-165,Little Free Garden #165,47.655624,-101.413124,,,,,"407 3rd St NE, Garrison, ND 58540",47.655624,-101.413124
+165,Little Free Garden #165,47.655624,-101.413124,TRUE,,,,"407 3rd St NE, Garrison, ND 58540",47.655624,-101.413124
 166,,,,,,,,,,
-167,Little Free Garden #167,47.652640,-101.411727,,,,,"333 1st Ave NE, Garrison, ND 58540",47.652640,-101.411727
+167,Garden of Gifts,47.652640,-101.411727,TRUE,Variety Garden (Veggies/Herbs/etc),"Roma tomatoes, pole beans, cucumbers and carrots",,"333 1st Ave NE, Garrison, ND 58540",47.652640,-101.411727
 168,,,,,,,,,,
 169,,,,,,,,,,
 170,,,,,,,,,,
