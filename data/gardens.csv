@@ -70,7 +70,7 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,Address,Latitude,Longit
 69,Booher LFG,46.858663,-96.817530,TRUE,Salsa Garden,"Help yourself! An assortment of tomatoes and herbs. If you don't eat them, the rabbits will :)",,"2346 Demores Drive, Fargo, ND 58103",46.858663,-96.817530
 70,Little Free Garden #70,46.8711209,-96.871952,TRUE,,,,"409 17th St E., West Fargo, ND 58078",46.8711209,-96.871952
 71,Little Free Garden #71,46.828800,-96.796874,TRUE,,,,"3408 11th St S., Fargo, ND 58104",46.828800,-96.796874
-72,Little Free Garden #72,46.869707,-96.794416,TRUE,,,,"923 5th Ave S., Fargo, ND 58103",46.869707,-96.794416
+72,Dougie,46.869707,-96.794416,TRUE,Variety Garden (Veggies/Herbs/etc),Bison pride! ,,"923 5th Ave S., Fargo, ND 58103",46.869707,-96.794416
 73,Growy McGarden ,46.867902,-96.790233,TRUE,Herb Garden,Is in a low sun area so just has some herbs planted,,"621 7th St S., Fargo, ND 58103",46.867902,-96.790233
 74,Little Free Garden #74,47.907835,-97.012091,TRUE,,,,"1029 5th Ave SE, East Grand Forks, MN 56721",47.907835,-97.012091
 75,Staybridge Suites Garden,47.910816,-97.088173,TRUE,Variety Garden (Veggies/Herbs/etc),Variety Garden available to our guests and the public,,"1175 42nd St S., Grand Forks, ND 58201",47.910816,-97.088173
@@ -141,24 +141,24 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,Address,Latitude,Longit
 140,Little Free Garden #140,46.850302,-96.807987,TRUE,,,,"1833 16 1/2 St S, Fargo, ND 58103",46.850302,-96.807987
 141,,,,,,,,,,
 142,,,,,,,,,,
-143,,,,,,,,,,
+143,Little Free Garden #143,46.268779,-96.054686,TRUE,,,,"1505 Pebble Lake Rd, Fergus Falls, MN 56537",46.268779,-96.054686
 144,,,,,,,,,,
 145,,,,,,,,,,
 146,,,,,,,,,,
-147,,,,,,,,,,
-148,,,,,,,,,,
+147,Little Free Garden #147,45.721991,-98.936568,TRUE,,,,"949 Marion St., Leola, SD 57456",45.721991,-98.936568
+148,Little Free Garden #148,42.913265,-89.385079,TRUE,,,,"788 S Main St., Oregon, WI 53575",42.913265,-89.385079
 149,Little Free Garden #149,28.677660,-81.189627,TRUE,,,,"1180 Allendale Dr., Oviedo, FL 32765",28.677660,-81.189627
 150,Little Free Garden #150,45.590580,-94.169296,TRUE,,,,"215 N Benton Drive, Sauk Rapids, MN 55379",45.590580,-94.169296
 151,,,,,,,,,,
-152,,,,,,,,,,
+152,Little Free Garden #152,46.887843,-96.785039,TRUE,,,,"1022 4th St N., Fargo, ND 58102",46.887843,-96.785039
 153,,,,,,,,,,
 154,,,,,,,,,,
 155,,,,,,,,,,
-156,,,,,,,,,,
+156,Edgewood Vista Little Free Garden,46.799641,-100.838952,TRUE,,,,"2801 39th Ave SE, Mandan, ND 58554",46.799641,-100.838952
 157,,,,,,,,,,
 158,,,,,,,,,,
 159,,,,,,,,,,
-160,,,,,,,,,,
+160,Edgewood Vista Little Free Garden,46.799641,-100.838952,TRUE,,,,"2801 39th Ave SE, Mandan, ND 58554",46.799641,-100.838952
 161,,,,,,,,,,
 162,,,,,,,,,,
 163,,,,,,,,,,
@@ -180,7 +180,7 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,Address,Latitude,Longit
 179,Little Free Garden #179,46.857310,-96.831659,TRUE,,,,"3225 15th Ave S., Fargo, ND 58103",46.857310,-96.831659
 180,Little Free Garden #180,45.327384,-93.555649,TRUE,,,,"11355 196th Ln NW, Elk River, MN 55330",45.327384,-93.555649
 181,Margaret Acres,44.961529,-93.013962,TRUE,Variety Garden (Veggies/Herbs/etc),Mix of vegetables and flowers in boulevard area between sidewalk and street,,"2047 Margaret St., Saint Paul, MN 55119",44.961529,-93.013962
-182,Little Free Garden #182,44.933230,-93.289833,TRUE,,,,"3824 Aldrich Ave S., Minneapolis, MN 55409",44.933230,-93.289833
+182,Snacking Garden,44.933230,-93.289833,TRUE,Variety Garden (Veggies/Herbs/etc),"Cuke-nuts, strawberries, ground cherries, and two kinds of tomatoes all just the right size for snacking!",,"3824 Aldrich Ave S., Minneapolis, MN 55409",44.933230,-93.289833
 183,Yuribird,46.880567,-96.764636,TRUE,Variety Garden (Veggies/Herbs/etc),"Cherry tomato, green beans, peppermint, cucumber",,"501 10th St. N., Moorhead, MN 56560",46.880567,-96.764636
 184,The Garden Gallery,41.284107,-96.237574,TRUE,,,,"2721 N. 206th St., Elkhorn, NE 68022",41.284107,-96.237574
 185,Little Free Garden #185,45.032980,-93.304993,TRUE,,,,"4249 Morgan Ave N, Minneapolis, MN 55412",45.032980,-93.304993
@@ -188,14 +188,14 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,Address,Latitude,Longit
 187,Mary's Sharing Garden ,45.483161,-98.451893,TRUE,Tomato Garden,"Tomatoes, peppers, cukes",,"2507 Primrose Lane, Aberdeen, SD 57401",45.483161,-98.451893
 188,Little Free Garden Job Service ,46.860363,-96.829634,TRUE,Variety Garden (Veggies/Herbs/etc),"Tomatoes, Peppers, Beans...",,"1350 32nd St S., Fargo, ND 58103",46.860363,-96.829634
 189,Little Free Garden #189,46.893721,-96.765164,TRUE,,,,"996 18th Avenue Cir N, Moorhead, MN 56560",46.893721,-96.765164
-190,Little Free Garden #190,44.884635,-93.302563,TRUE,Variety Garden (Veggies/Herbs/etc),"On-site and drop-off location for church members' produce!  We'll let you know what's here, and when.",,"1620 E 46th Street, Minneapolis, MN 55407",44.884635,-93.302563
+190,Little Free Garden #190,44.884635,-93.302563,TRUE,Variety Garden (Veggies/Herbs/etc),"The plants are growing - fruit and veggies still a dream, but come if you need a bit of parsley or cilantro, a pinch of rosemary... ",,"1620 E 46th Street, Minneapolis, MN 55407",44.884635,-93.302563
 191,Little Free Garden #191,44.801228,-68.789686,TRUE,Variety Garden (Veggies/Herbs/etc),"In-ground garden featuring a variety of tomatoes, peppers, peas, green beans, herbs, and salad greens with a backdrop of sunflowers. Hoping for pumpkins in the fall!",,"35 Elizabeth Ave, Bangor, ME 04410",44.801228,-68.789686
 192,Little Free Garden #192,46.860541,-96.788653,TRUE,,,,"1328 6th St S., Fargo, ND 58103",46.860541,-96.788653
 193,The Front Forty,45.009104,-93.318773,TRUE,Variety Garden (Veggies/Herbs/etc),"Tomatoes, baby eggplant, sweet & hot peppers, and herbs! The plants are currently very small. Hoping to have some herbs ready in the next few weeks.",,"2741 Xerxes Ave N., Robbinsdale, MN 55422",45.009104,-93.318773
 194,Little Free Garden #194,46.858175,-96.771301,TRUE,,,,"1605 6th St S., Moorhead, MN 56560",46.858175,-96.771301
 195,Little Free Garden #195,46.805222,-100.780567,TRUE,,,,"717 E Main Ave., Bismarck, ND 58501",46.805222,-100.780567
-196,Sunshine Garden,46.857084,-96.784752,TRUE,Variety Garden (Veggies/Herbs/etc),"Tomatoes, cucumbers, green beans and carrots! ",,"4458 Elmwood Ave S., Fargo, ND 58103",46.857084,-96.784752
+196,Sunshine Garden,46.857084,-96.784752,TRUE,Variety Garden (Veggies/Herbs/etc),"Tomatoes, cucumbers, green beans and carrots! ",,"458 Elmwood Ave S., Fargo, ND 58103",46.857084,-96.784752
 197,Little Free Garden #197,47.932694,-97.090625,TRUE,,,,"4251 Gateway Drive, Grand Forks, ND 58203",47.932694,-97.090625
-,Little Free Garden #198,35.409267,-80.872392,TRUE,,,,"14423 Lyon Hill Ln., Huntersville, NC 28078",35.409267,-80.872392
-,Little Free Garden #199,41.305180,-96.040189,TRUE,,,,"8175 Camden Ave, Omaha, NE 68134",41.305180,-96.040189
-,Little Free Garden #200,41.362529,-93.545863,TRUE,,,,"304 N 10th St., Indianola, IA 50125",41.362529,-93.545863
+198,Little Free Garden #198,35.409267,-80.872392,TRUE,,,,"14423 Lyon Hill Ln., Huntersville, NC 28078",35.409267,-80.872392
+199,Camden Corner Garden,41.305180,-96.040189,TRUE,Variety Garden (Veggies/Herbs/etc),"Starting small this year (2018) with tomato, sweet pepper, Anaheim pepper and basil.   I hope to expand next year to include peas or beans and perhaps winter squash.  ",,"8175 Camden Ave, Omaha, NE 68134",41.305180,-96.040189
+200,Little Free Garden #200,41.362529,-93.545863,TRUE,,,,"304 N 10th St., Indianola, IA 50125",41.362529,-93.545863
