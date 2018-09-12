@@ -1,4 +1,4 @@
-Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,Address,Latitude,Longitude
+Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,TRUE,Latitude,Longitude
 1,Williams Garden,46.863766,-96.765343,TRUE,,,,"1011 10th St S, Moorhead, MN 56560",46.863766,-96.765343
 2,The MidMo Garden,46.859273,-96.761660,TRUE,Variety Garden (Veggies/Herbs/etc),Little Free Garden #2 is located in the heart of Moorhead between Concordia College and MSUM. This garden is designed with the traditional Scandinavian Rosemaling design and features tomatoes and kale. Kale is the One Vegetable One Community Vegetable of the Year. ,,"1505 12th St S, Moorhead, MN 56560",46.859273,-96.761660
 3,APT Garden,46.880409,-96.782722,TRUE,,,,"225 4th Ave N., Fargo, ND 58103",46.880409,-96.782722
@@ -46,9 +46,9 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,Address,Latitude,Longit
 45,Habitat for Humanity,46.860917,-96.775482,TRUE,Salad Garden,"Tomatoes, Carrots, Onions, Peas, Peppers",,"1303 3rd St S., Moorhead, MN 56560",46.860917,-96.775482
 46,Kilbourne Garden #1,46.882788,-96.783567,TRUE,,"Kilbourne Group is sponsoring this garden to provide fresh produce to downtown Fargo. Tomato, basil, squash, green peppers, Brussels sprouts, and mini watermelon are being grown in this garden for the community to enjoy!",,"1224 1st Ave N., Fargo, ND 58102",46.882788,-96.783567
 47,Kilbourne Garden #2,46.882788,-96.783567,FALSE,,"Kilbourne Group is sponsoring this garden to provide fresh produce to downtown Fargo. Tomato, basil, squash, green peppers, Brussels sprouts, and mini watermelon are being grown in this garden for the community to enjoy!",,,46.882788,-96.783567
-48,Pontoppidan Garden,46.879839,-96.784226,TRUE,,"Kilbourne Group and Pontoppidan Church have partnered to provide fresh produce to downtown Fargo. This garden signifies not only the cultivation of food, but also the growth of downtown Fargo through partnerships among downtown neighbors. Tomato, basil, squash, green peppers, Brussels sprouts, and mini watermelon are being grown in this garden for the community to enjoy!",,"309 4th St N, Fargo, ND 58102",46.879839,-96.784226
-49,Pontoppidan Garden,46.880044,-96.784222,TRUE,,"Kilbourne Group and Pontoppidan Church have partnered to provide fresh produce to downtown Fargo. This garden signifies not only the cultivation of food, but also the growth of downtown Fargo through partnerships among downtown neighbors. Tomato, basil, squash, green peppers, Brussels sprouts, and mini watermelon are being grown in this garden for the community to enjoy!",,"321 4th St N, Fargo, ND 58102",46.880044,-96.784222
-50,Booher's Garden #1,46.878741,-96.786322,FALSE,Flower Garden,"This garden is a milkweed / native flower garden through 2017, until the land developers repurpose this for new construction.",,"505 2nd Ave N., Fargo, ND 58102",46.878741,-96.786322
+48,1208 Garden,46.879839,-96.784226,TRUE,Herb Garden,"Small garden bringing some color to the western downtown area, sponsored by Kilbourne Group!",,"309 4th St N, Fargo, ND 58102",46.879839,-96.784226
+49,Pontoppidan Garden,46.880044,-96.784222,FALSE,,,,,46.880044,-96.784222
+50,Booher's Garden #1,46.878741,-96.786322,FALSE,Flower Garden,"This garden is a milkweed / native flower garden through 2017, until the land developers repurpose this for new construction.",,"1208 1st Ave N, Fargo, ND 58102",46.878741,-96.786322
 51,Booher's Garden #2,46.878646,-96.786325,FALSE,Flower Garden,"This garden is a milkweed / native flower garden through 2017, until the land developers repurpose this for new construction.",,"505 2nd Ave N., Fargo, ND 58102",46.878646,-96.786325
 52,Daley Park ,46.871931,-96.773951,TRUE,Variety Garden (Veggies/Herbs/etc),"It is a community garden, it was planted and is maintained by the great folks of the FM Area. Sponsored by Square Foot Gardening for the Red River Valley. The garden is in memory of Mel Bartholomew, creator of Square Foot Gardening.",,"Daley Park, Moorhead, MN 56560",46.871931,-96.773951
 53,Davenport Garden,46.302824,-96.076206,TRUE,,,,"1822 N Park, Fergus Falls, MN 56537",46.302824,-96.076206
@@ -144,14 +144,14 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,Address,Latitude,Longit
 143,Little Free Garden #143,46.268779,-96.054686,TRUE,,,,"1505 Pebble Lake Rd, Fergus Falls, MN 56537",46.268779,-96.054686
 144,,,,,,,,,,
 145,,,,,,,,,,
-146,,,,,,,,,,
+146,Little Free Garden at Heritage Cottage,30.410750,-88.745622,TRUE,Herb Garden,Currently we have an assortment of freshly planted herbs.  We expect harvesting in a couple of months as the plants were new on 9/1/18.  ,,"5001 Heritage Ln., Ocean Springs, MS 39564",30.410750,-88.745622
 147,Little Free Garden #147,45.721991,-98.936568,TRUE,,,,"949 Marion St., Leola, SD 57456",45.721991,-98.936568
-148,Little Free Garden #148,42.913265,-89.385079,TRUE,,,,"788 S Main St., Oregon, WI 53575",42.913265,-89.385079
+148,Little Free Garden #148,42.913265,-89.385079,TRUE,Variety Garden (Veggies/Herbs/etc),Herbs with a variety of rotating seasonal crops ,,"788 S Main St., Oregon, WI 53575",42.913265,-89.385079
 149,Little Free Garden #149,28.677660,-81.189627,TRUE,,,,"1180 Allendale Dr., Oviedo, FL 32765",28.677660,-81.189627
 150,Little Free Garden #150,45.590580,-94.169296,TRUE,,,,"215 N Benton Drive, Sauk Rapids, MN 55379",45.590580,-94.169296
 151,,,,,,,,,,
 152,Little Free Garden #152,46.887843,-96.785039,TRUE,,,,"1022 4th St N., Fargo, ND 58102",46.887843,-96.785039
-153,,,,,,,,,,
+153,4-H Camp Little Free Garden,47.302040,-101.064802,TRUE,,,,"2702 8th St SW, Washburn, ND 58557",47.302040,-101.064802
 154,,,,,,,,,,
 155,,,,,,,,,,
 156,Edgewood Vista Little Free Garden,46.799641,-100.838952,TRUE,,,,"2801 39th Ave SE, Mandan, ND 58554",46.799641,-100.838952
@@ -162,12 +162,12 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,Address,Latitude,Longit
 161,,,,,,,,,,
 162,,,,,,,,,,
 163,,,,,,,,,,
-164,,,,,,,,,,
+164,4-H Camp Little Free Garden,47.302040,-101.064802,TRUE,,,,"2702 8th St SW, Washburn, ND 58557",47.302040,-101.064802
 165,Little Free Garden #165,47.655624,-101.413124,TRUE,,,,"407 3rd St NE, Garrison, ND 58540",47.655624,-101.413124
 166,,,,,,,,,,
 167,Garden of Gifts,47.652640,-101.411727,TRUE,Variety Garden (Veggies/Herbs/etc),"Roma tomatoes, pole beans, cucumbers and carrots",,"333 1st Ave NE, Garrison, ND 58540",47.652640,-101.411727
-168,,,,,,,,,,
-169,,,,,,,,,,
+168,4-H Camp Little Free Garden,47.302040,-101.064802,TRUE,,,,"2702 8th St SW, Washburn, ND 58557",47.302040,-101.064802
+169,4-H Camp Little Free Garden,47.302040,-101.064802,TRUE,,,,"2702 8th St SW, Washburn, ND 58557",47.302040,-101.064802
 170,,,,,,,,,,
 171,Little Free Garden #171,,,,,,,,,
 172,Little Free Garden #172,44.980922,-93.052836,TRUE,,,,"1126 Ivy Ave E, St Paul, MN 55106",44.980922,-93.052836
@@ -196,6 +196,6 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,Address,Latitude,Longit
 195,Little Free Garden #195,46.805222,-100.780567,TRUE,,,,"717 E Main Ave., Bismarck, ND 58501",46.805222,-100.780567
 196,Sunshine Garden,46.857084,-96.784752,TRUE,Variety Garden (Veggies/Herbs/etc),"Tomatoes, cucumbers, green beans and carrots! ",,"458 Elmwood Ave S., Fargo, ND 58103",46.857084,-96.784752
 197,Little Free Garden #197,47.932694,-97.090625,TRUE,,,,"4251 Gateway Drive, Grand Forks, ND 58203",47.932694,-97.090625
-198,Little Free Garden #198,35.409267,-80.872392,TRUE,,,,"14423 Lyon Hill Ln., Huntersville, NC 28078",35.409267,-80.872392
+198,CCAC Little Free Garden ,35.409267,-80.872392,TRUE,Variety Garden (Veggies/Herbs/etc),CanDo! Creative Arts CO-OP Community Project,,"14423 Lyon Hill Ln., Huntersville, NC 28078",35.409267,-80.872392
 199,Camden Corner Garden,41.305180,-96.040189,TRUE,Variety Garden (Veggies/Herbs/etc),"Starting small this year (2018) with tomato, sweet pepper, Anaheim pepper and basil.   I hope to expand next year to include peas or beans and perhaps winter squash.  ",,"8175 Camden Ave, Omaha, NE 68134",41.305180,-96.040189
 200,Little Free Garden #200,41.362529,-93.545863,TRUE,,,,"304 N 10th St., Indianola, IA 50125",41.362529,-93.545863
