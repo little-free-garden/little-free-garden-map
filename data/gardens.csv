@@ -109,7 +109,7 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,TRUE,Latitude,Longitude
 108,Little Free Garden #108,,,,,Tomato Garden,,,,
 109,Little Free Garden #109,42.034859,-82.742254,TRUE,,,,"89 Queen Street, Kingsville, ONT N9Y 2A1",42.034859,-82.742254
 110,Little Free Garden #110,47.540562,-122.270157,TRUE,,,,"6903 51st Ave South, Seattle WA 98118",47.540562,-122.270157
-111,Little Free Garden #111,32.740104,-117.250952,TRUE,,,,"4775 Coronado Ave, San Dieg, CA 92107  ",32.740104,-117.250952
+111,Little Free Garden #111,32.740104,-117.250952,TRUE,,,,"4775 Coronado Ave, San Diego, CA 92107  ",32.740104,-117.250952
 112,Little Free Garden #112,32.743307,-117.245972,TRUE,,,,"1883 Ebers, San Diego, CA 92107",32.743307,-117.245972
 113,Little Free Garden #113,32.749052,-117.250409,TRUE,,,,"5045 Saratoga Ave, San Diego, CA 92107 ",32.749052,-117.250409
 114,Little Free Garden #114,32.744297,-117.244334,TRUE,,,,"4662 Santa Monica Ave, San Diego, CA 92107",32.744297,-117.244334
@@ -143,7 +143,7 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,TRUE,Latitude,Longitude
 142,,,,,,,,,,
 143,Little Free Garden #143,46.268779,-96.054686,TRUE,,,,"1505 Pebble Lake Rd, Fergus Falls, MN 56537",46.268779,-96.054686
 144,,,,,,,,,,
-145,,,,,,,,,,
+145,Little Free Garden #145,45.032121,-93.245755,TRUE,,,,"3531 Tyler ST NE, Minneapolis, MN 55418",45.032121,-93.245755
 146,Little Free Garden at Heritage Cottage,30.410750,-88.745622,TRUE,Herb Garden,Currently we have an assortment of freshly planted herbs.  We expect harvesting in a couple of months as the plants were new on 9/1/18.  ,,"5001 Heritage Ln., Ocean Springs, MS 39564",30.410750,-88.745622
 147,Little Free Garden #147,45.721991,-98.936568,TRUE,,,,"949 Marion St., Leola, SD 57456",45.721991,-98.936568
 148,Little Free Garden #148,42.913265,-89.385079,TRUE,Variety Garden (Veggies/Herbs/etc),Herbs with a variety of rotating seasonal crops ,,"788 S Main St., Oregon, WI 53575",42.913265,-89.385079
@@ -171,7 +171,7 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,TRUE,Latitude,Longitude
 170,,,,,,,,,,
 171,Little Free Garden #171,,,,,,,,,
 172,Little Free Garden #172,44.980922,-93.052836,TRUE,,,,"1126 Ivy Ave E, St Paul, MN 55106",44.980922,-93.052836
-173,Little Free Garden #173,46.921834,-96.779003,TRUE,,,,"3419 2nd St N, Fargo, ND 58102",46.921834,-96.779003
+173,Little Free Garden #173,46.921834,-96.779003,TRUE,Variety Garden (Veggies/Herbs/etc),,,"3419 2nd St N, Fargo, ND 58102",46.921834,-96.779003
 174,Little Free Garden #174,44.935996,-93.357331,TRUE,,,,"6030 Oxford St, St Louis Park, MN 55416",44.935996,-93.357331
 175,Little Free Garden #175,44.177248,-94.055073,TRUE,,,,"2485 Northridge Dr, North Mankato, MN 56003",44.177248,-94.055073
 176,Little Free Garden #176,45.032980,-93.304993,TRUE,,,,"4249 Morgan Ave N, Minneapolis, MN 55412",45.032980,-93.304993
