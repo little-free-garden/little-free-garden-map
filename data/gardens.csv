@@ -49,7 +49,10 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,TRUE,Latitude,Longitude
 48,1208 Garden,46.879839,-96.784226,TRUE,Herb Garden,"Small garden bringing some color to the western downtown area, sponsored by Kilbourne Group!",,"309 4th St N, Fargo, ND 58102",46.879839,-96.784226
 49,Pontoppidan Garden,46.880044,-96.784222,FALSE,,,,,46.880044,-96.784222
 50,Booher's Garden #1,46.878741,-96.786322,FALSE,Flower Garden,"This garden is a milkweed / native flower garden through 2017, until the land developers repurpose this for new construction.",,"1208 1st Ave N, Fargo, ND 58102",46.878741,-96.786322
-51,Booher's Garden #2,46.878646,-96.786325,FALSE,Flower Garden,"This garden is a milkweed / native flower garden through 2017, until the land developers repurpose this for new construction.",,"505 2nd Ave N., Fargo, ND 58102",46.878646,-96.786325
+51,Bjorn and Heidi's Little Free Garden,46.878646,-96.786325,TRUE,Snap Peas and Beans,"Hi neighbor! We’re Bjorn and Heidi! Welcome to Little Free Garden. You are welcome to graze and pick some snap peas and beans. We hope you enjoy! 
+
+We labeled all the plants and will do our best to let you know when different items are ready for picking. If you have any questions, feel free to knock on our door. Thanks for stopping by!
+",,"411 East Terhune Street, Viroqua, WI 54665",46.878646,-96.786325
 52,Daley Park ,46.871931,-96.773951,TRUE,Variety Garden (Veggies/Herbs/etc),"It is a community garden, it was planted and is maintained by the great folks of the FM Area. Sponsored by Square Foot Gardening for the Red River Valley. The garden is in memory of Mel Bartholomew, creator of Square Foot Gardening.",,"Daley Park, Moorhead, MN 56560",46.871931,-96.773951
 53,Davenport Garden,46.302824,-96.076206,TRUE,,,,"1822 N Park, Fergus Falls, MN 56537",46.302824,-96.076206
 54,EcoGarden,46.867762,-96.770484,TRUE,Salsa Garden,"As students dedicated to living sustainably, the residents of the EcoHouse chose to have a Little Free Garden to start discussion and have a hands-on method of providing engagment with topics such as food security, food justice, and food sovereignty. These topics are important to discuss when learning about sustainable living and environmental justice, topics that the students are passionate about. ",,"618 6th St S., Moorhead, MN 56560",46.867762,-96.770484
@@ -199,3 +202,10 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,TRUE,Latitude,Longitude
 198,CCAC Little Free Garden ,35.409267,-80.872392,TRUE,Variety Garden (Veggies/Herbs/etc),CanDo! Creative Arts CO-OP Community Project,,"14423 Lyon Hill Ln., Huntersville, NC 28078",35.409267,-80.872392
 199,Camden Corner Garden,41.305180,-96.040189,TRUE,Variety Garden (Veggies/Herbs/etc),"Starting small this year (2018) with tomato, sweet pepper, Anaheim pepper and basil.   I hope to expand next year to include peas or beans and perhaps winter squash.  ",,"8175 Camden Ave, Omaha, NE 68134",41.305180,-96.040189
 200,Little Free Garden #200,41.362529,-93.545863,TRUE,,,,"304 N 10th St., Indianola, IA 50125",41.362529,-93.545863
+201,Little Free Garden #201,,,,,,,,,
+202,Little Free Garden #202,43.098216,-89.345557,TRUE,,,,"56 Corry St., Madison, WI 53704",43.098216,-89.345557
+203,Little Free Garden #203,46.892151,-96.777542,TRUE,,,,"1240 Elm Street, Fargo, ND 58102",46.892151,-96.777542
+204,Little Free Garden #204,44.474176,-92.198755,TRUE,,,,"N1782 Bogus Road, Stockholm, WI 54769",44.474176,-92.198755
+205,,,,,,,,,,
+206,Bee and Board Garden,46.889205,-96.757559,TRUE,Variety Garden (Veggies/Herbs/etc),Large garden boxes along the sidewalk filled with a variety of ever changing produce to go with the seasons. ,,"1305 14th St N., Moorhead, MN 56560",46.889205,-96.757559
+207,,45.450973,-95.007069,TRUE,,,,"535 Pleasant Ave. #8, Belgrade, MN 56312",45.450973,-95.007069
