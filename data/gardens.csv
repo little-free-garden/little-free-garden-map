@@ -96,7 +96,7 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,TRUE,Latitude,Longitude
 94,APT Garden,46.880409,-96.782722,TRUE,,,,"225 4th Ave N., Fargo, ND 58103",46.880409,-96.782722
 95,Adrian & Olivia's Garden,46.847438,-96.792868,TRUE,Variety Garden (Veggies/Herbs/etc),"We're planting tomatoes, peppers, beans, and other yummy things this year!",,"819 21st Ave S., Fargo, ND 58103",46.847438,-96.792868
 96,Little Free Garden #96,46.877400,-96.787237,TRUE,,,,"109 Broadway N, Fargo, ND 58103",46.877400,-96.787237
-97,Little Free Garden #97,45.119543,-93.149279,TRUE,,,,"5904 Fernwood Street, Shoreview, MN 55126",45.119543,-93.149279
+97,Grape's Garden ,45.119543,-93.149279,TRUE,Variety Garden (Veggies/Herbs/etc),"LOTS of raspberries everbearing, cherry tomatoes and working on herbs.",,"5904 Fernwood Street, Shoreview, MN 55126",45.119543,-93.149279
 98,Little Free Garden #98,39.815907,-86.153350,TRUE,,,,"128 E 33rd Street, Indianapolis, IN 46205",39.815907,-86.153350
 99,Little Free Garden #99,,,FALSE,,,,,,
 100,Little Free Garden #100,41.663450,-91.533686,TRUE,,,,"123 E Market St, Iowa City, IA 52245",41.663450,-91.533686
@@ -204,7 +204,7 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,TRUE,Latitude,Longitude
 202,Sector67,43.098216,-89.345557,TRUE,Variety Garden (Veggies/Herbs/etc),Sector67 Vegetable and Herb Garden,,"56 Corry St., Madison, WI 53704",43.098216,-89.345557
 203,Little Free Garden #203,46.892151,-96.777542,TRUE,,,,"1240 Elm Street, Fargo, ND 58102",46.892151,-96.777542
 204,Little Free Garden #204,44.474176,-92.198755,TRUE,,,,"N1782 Bogus Road, Stockholm, WI 54769",44.474176,-92.198755
-205,,,,,,,,,,
+205,Little Free Garden #205,46.845170,-96.775322,TRUE,Variety Garden (Veggies/Herbs/etc),Tomatoes and Peppers,,"2919 4th ST S Moorhead, MN 56560",46.845170,-96.775322
 206,Bee and Board Garden,46.889205,-96.757559,TRUE,Variety Garden (Veggies/Herbs/etc),Large garden boxes along the sidewalk filled with a variety of ever changing produce to go with the seasons. ,,"1305 14th St N., Moorhead, MN 56560",46.889205,-96.757559
 207,Little Free Garden #207,45.450973,-95.007069,TRUE,,,,"535 Pleasant Ave. #8, Belgrade, MN 56312",45.450973,-95.007069
 208,Little Free Garden #208,44.944269,-93.450810,TRUE,,,,"13400 McGinty Road E, Minnetonka, MN 55305",44.944269,-93.450810
@@ -219,5 +219,16 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,TRUE,Latitude,Longitude
 217,,,,,,,,,,
 218,,,,,,,,,,
 219,,,,,,,,,,
-220,,,,,,,,"1702 Cass St., La Crosse, WI 54601",43.808433,-91.230742
-221,Little Free Garden #221,,,TRUE,,,,,,
+220,,,,,,,,,43.808433,-91.230742
+221,Little Free Garden #221,,,TRUE,,,,"1702 Cass St., La Crosse, WI 54601",43.808433,-91.230742
+222,Lex's Garden,,,TRUE,Variety Garden (Veggies/Herbs/etc),"cilantro, carrots, lettuce, sweet peppers ",,"1220 11th St. N., Moorhead, MN 56560",46.888397,-96.762204
+223,Little Free Garden #223,,,TRUE,,,,"4901 15th Ave S., Fargo, ND 58103",46.898460,-96.783941
+224,Little Free Garden #224,,,TRUE,,,,"4901 15th Ave S., Fargo, ND 58103",46.898460,-96.783941
+225,,,,,,,,,,
+226,Cass County Soil Conservation District,,,TRUE,Variety Garden (Veggies/Herbs/etc),"We have 2 tomato, 2 peppers, 1 spearmint and 1 sage plant",,"1665 43rd St S., Fargo, ND 58103",46.856267,-96.854206
+227,Little Free Garden #227,,,TRUE,,,,"414 Bowser Ave., Chesterton, IN 46304",41.607470,-87.045192
+228,,,,,,,,,,
+229,,,,,,,,,,
+230,,,,,,,,,,
+231,,,,,,,,,,
+232,Little Free Garden #232,,,TRUE,,,,"1122 45th Street, Galveston, TX 77551",29.291957,-94.816466
