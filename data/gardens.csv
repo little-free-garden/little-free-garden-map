@@ -126,7 +126,7 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,TRUE,Latitude,Longitude
 124,Little Free Garden #124,46.854833,-96.825752,TRUE,,,,"1667 W Gateway Cir S, Fargo, ND 58103",46.854833,-96.825752
 125,Little Free Garden #125,47.160560,-100.784390,TRUE,,,,"35 Bismarck Ave, Wilton, ND 58579",47.160560,-100.784390
 126,Little Free Garden #126,46.873605,-96.789972,TRUE,,,,"23 7th St S, 1 S, Fargo, ND 58103",46.873605,-96.789972
-127,Salsa Garden,46.568915,-96.073956,TRUE,Salsa Garden,"This garden has White Spanish Onions, Cilantro, Sweet Baby Bell Peppers, Purple Cherokee Tomato and Tigerella Tomato.  There are also Marigolds and Snapdragons for the pollinators! ",,"613 1st Ave S, Pelican Rapids, MN 56572",46.568915,-96.073956
+127,Kitchen Garden,46.568915,-96.073956,TRUE,Variety Garden (Veggies/Herbs/etc),"This garden has Cilantro, Sweet Banana Peppers, Roma Tomatoes, Sugar Snap Peas, and Sweet Italian Basil.  There are also Marigolds and Chrysanthemums for the pollinators!",,"613 1st Ave S, Pelican Rapids, MN 56572",46.568915,-96.073956
 128,Little Free Garden #128,46.797781,-96.889028,TRUE,,,,"6163 56th Ave S, Fargo, ND 58104",46.797781,-96.889028
 129,,,,,,,,,,
 130,,,,,,,,,,
@@ -200,7 +200,7 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,TRUE,Latitude,Longitude
 198,CCAC Little Free Garden ,35.409267,-80.872392,TRUE,Variety Garden (Veggies/Herbs/etc),CanDo! Creative Arts CO-OP Community Project,,"14423 Lyon Hill Ln., Huntersville, NC 28078",35.409267,-80.872392
 199,Camden Corner Garden,41.305180,-96.040189,TRUE,Variety Garden (Veggies/Herbs/etc),"Starting small this year (2018) with tomato, sweet pepper, Anaheim pepper and basil.   I hope to expand next year to include peas or beans and perhaps winter squash.  ",,"8175 Camden Ave, Omaha, NE 68134",41.305180,-96.040189
 200,Little Free Garden #200,41.362529,-93.545863,TRUE,,,,"304 N 10th St., Indianola, IA 50125",41.362529,-93.545863
-201,Little Free Garden #201,,,,,,,,,
+201,"Boundary County Library Bonners Ferry, ID",48.696130,-116.310696,TRUE,Variety Garden (Veggies/Herbs/etc),"A wonderful location for the first Little Free Garden #201  in Idaho.  The Boundary County Library District (BCLD), in Bonners Ferry, was named the best small library in America for 2017.",,"6370 Kootenai Street, Bonners Ferry, ID 83805",48.696130,-116.310696
 202,Sector67,43.098216,-89.345557,TRUE,Variety Garden (Veggies/Herbs/etc),Sector67 Vegetable and Herb Garden,,"56 Corry St., Madison, WI 53704",43.098216,-89.345557
 203,Little Free Garden #203,46.892151,-96.777542,TRUE,,,,"1240 Elm Street, Fargo, ND 58102",46.892151,-96.777542
 204,Little Free Garden #204,44.474176,-92.198755,TRUE,,,,"N1782 Bogus Road, Stockholm, WI 54769",44.474176,-92.198755
@@ -210,16 +210,16 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,TRUE,Latitude,Longitude
 208,Little Free Garden #208,44.944269,-93.450810,TRUE,,,,"13400 McGinty Road E, Minnetonka, MN 55305",44.944269,-93.450810
 209,,,,,,,,,,
 210,,,,,,,,,,
-211,,,,,,,,,,
-212,,,,,,,,,,
-213,,,,,,,,,,
-214,,,,,,,,,,
-215,,,,,,,,,,
-216,,,,,,,,,,
+211,Good Neighbor,47.925253,-97.037103,TRUE,Salad Garden,Vegetable garden alongside the parking lot of the church.,,"520 University Ave., Grand Forks, ND 58201",47.925253,-97.037103
+212,Patch of Sunshine Garden,47.911645,-97.073883,TRUE,Salad Garden,Gifted from Thrivent.  We hope our guests will use the garden for therapy to nourish their mind and body as a form of healing.,,"933 Duke Drive, Grand Forks, ND 58201",47.911645,-97.073883
+213,Sharon Lutheran Church,47.903278,-97.056647,TRUE,,,,"1720 S 20th St, Grand Forks, ND 58201",47.903278,-97.056647
+214,Lil herb garden,47.921557,-97.031727,TRUE,Herb Garden,Herb garden planted by La Grave tenants!,,"500 1st Ave. S. Grand Forks, ND 58201",47.921557,-97.031727
+215,Calvary Lutheran Church,47.907142,-97.038002,TRUE,,,,"1405 S 9th St, Grand Forks, ND 58201",47.907142,-97.038002
+216,Northlands Rescue Mission,47.921861,-97.028413,TRUE,,,,"420 Division Ave, Grand Forks, ND 58201",47.921861,-97.028413
 217,,,,,,,,,,
 218,,,,,,,,,,
 219,,,,,,,,,,
-220,,,,,,,,,,
+220,Veggies Galore!,47.947742,-97.038719,TRUE,Vegetables,"Enjoy all the fixings for a perfect salad - butter crunch lettuce, spinach, cucumbers, carrots, radishes, cherry tomatoes, sugar snap peas and so much more!  16 square feet of goodness to share with the neighborhood!",,"1302 22nd St NW, East Grand Forks, MN 56721",47.947742,-97.038719
 221,Little Free Garden #221,43.808433,-91.230742,TRUE,,,,"1702 Cass St., La Crosse, WI 54601",43.808433,-91.230742
 222,Lex's Garden,46.888397,-96.762204,TRUE,Variety Garden (Veggies/Herbs/etc),"cilantro, carrots, lettuce, sweet peppers ",,"1220 11th St. N., Moorhead, MN 56560",46.888397,-96.762204
 223,Little Free Garden #223,46.898460,-96.783941,TRUE,,,,"4901 15th Ave S., Fargo, ND 58103",46.898460,-96.783941
@@ -233,3 +233,40 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,TRUE,Latitude,Longitude
 231,,,,,,,,,,
 232,Little Free Garden #232,29.291957,-94.816466,TRUE,,,,"1122 45th Street, Galveston, TX 77551",29.291957,-94.816466
 233,Little Free Garden #233,47.924769,-97.046624,TRUE,,,,"1412 5th Ave N., Grand Forks, ND 58203",47.924769,-97.046624
+234,Insure it All,48.695966,-116.311991,TRUE,Variety Garden (Veggies/Herbs/etc),"Delighted to plant edible salad bowl, tomato, an organic lettuce mix and edible flowers. ",,"7156 Main Street, Bonners Ferry, ID 83805",48.695966,-116.311991
+235,Little Free Garden #235,47.774262,-97.098897,TRUE,,,,"701 Broadway St., Thompson, ND 58278",47.774262,-97.098897
+236,,,,,,,,,,
+237,,,,,,,,,,
+238,,,,,,,,,,
+239,,,,,,,,,,
+240,,,,,,,,,,
+241,,,,,,,,,,
+242,,,,,,,,,,
+243,,,,,,,,,,
+244,,,,,,,,,,
+245,,,,,,,,,,
+246,,,,,,,,,,
+247,,,,,,,,,,
+248,,,,,,,,,,
+249,,38.768652,-9.161851,TRUE,,,,"R. Mário Sampaio Ribeiro, 1600-760, Lisboa, Portugal",38.768652,-9.161851
+250,,,,,,,,,,
+251,,,,,,,,,,
+252,,,,,,,,,,
+253,,,,,,,,,,
+254,,,,,,,,,,
+255,,,,,,,,,,
+256,,,,,,,,,,
+257,,,,,,,,,,
+258,,,,,,,,,,
+259,,,,,,,,,,
+260,,,,,,,,,,
+261,,,,,,,,,,
+262,,,,,,,,,,
+263,,,,,,,,,,
+264,,,,,,,,,,
+265,,,,,,,,,,
+266,,,,,,,,,,
+267,,,,,,,,,,
+268,,,,,,,,,,
+269,,,,,,,,,,
+270,,,,,,,,,,
