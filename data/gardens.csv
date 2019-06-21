@@ -207,7 +207,7 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,TRUE,Latitude,Longitude
 205,Little Free Garden #205,46.845170,-96.775322,TRUE,Variety Garden (Veggies/Herbs/etc),Tomatoes and Peppers,,"2919 4th ST S Moorhead, MN 56560",46.845170,-96.775322
 206,Bee and Board Garden,46.889205,-96.757559,TRUE,Variety Garden (Veggies/Herbs/etc),Large garden boxes along the sidewalk filled with a variety of ever changing produce to go with the seasons. ,,"1305 14th St N., Moorhead, MN 56560",46.889205,-96.757559
 207,Little Free Garden #207,45.450973,-95.007069,TRUE,,,,"535 Pleasant Ave. #8, Belgrade, MN 56312",45.450973,-95.007069
-208,Little Free Garden #208,44.944269,-93.450810,TRUE,,,,"13400 McGinty Road E, Minnetonka, MN 55305",44.944269,-93.450810
+208,Little Free Garden #208,44.944269,-93.450810,TRUE,Variety Garden (Veggies/Herbs/etc),Raised steel bed,,"13400 McGinty Road E, Minnetonka, MN 55305",44.944269,-93.450810
 209,,,,,,,,,,
 210,,,,,,,,,,
 211,Good Neighbor,47.925253,-97.037103,TRUE,Salad Garden,Vegetable garden alongside the parking lot of the church.,,"520 University Ave., Grand Forks, ND 58201",47.925253,-97.037103
@@ -248,20 +248,20 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,TRUE,Latitude,Longitude
 246,,,,,,,,,,
 247,,,,,,,,,,
 248,,,,,,,,,,
-249,,38.768652,-9.161851,TRUE,,,,"R. Mário Sampaio Ribeiro, 1600-760, Lisboa, Portugal",38.768652,-9.161851
+249,Little Free Garden Portugal,38.768652,-9.161851,TRUE,,,,"R. Mário Sampaio Ribeiro, 1600-760, Lisboa, Portugal",38.768652,-9.161851
 250,,,,,,,,,,
-251,,,,,,,,,,
-252,,,,,,,,,,
-253,,,,,,,,,,
-254,,,,,,,,,,
+251,Under the Sun and Soul Shine,48.696405,-116.312188,TRUE,Variety Garden (Veggies/Herbs/etc),Our back patio.,,"7178 Main Street Bonners Ferry, ID 83805",48.696405,-116.312188
+252,North Idaho Family Dentistry,48.687811,-116.315826,TRUE,Variety Garden (Veggies/Herbs/etc),Tomatoes and peppers to enjoy.,,"6503 Harrison Street, Bonners Ferry, ID 83805",48.687811,-116.315826
+253,Trinity Lutheran Church,48.685934,-116.320203,TRUE,Variety Garden (Veggies/Herbs/etc),"The time of year to plant quick growing food: radish, carrots, spinach and lettuce.",,"6784 Cody Street Bonners Ferry, ID 83805",48.685934,-116.320203
+254,The Nest,48.696344,-116.312176,TRUE,Variety Garden (Veggies/Herbs/etc),Growing vegetables at our alley location.,,"7174 Main Street Bonners Ferry, ID 83805",48.696344,-116.312176
 255,,,,,,,,,,
 256,,,,,,,,,,
-257,,,,,,,,,,
-258,,,,,,,,,,
-259,,,,,,,,,,
+257,Live Edge Productions,48.686890,-116.316565,TRUE,Variety Garden (Veggies/Herbs/etc),Unique site for vegetables along with a generous donation of plants for other Little Free Gardens in the community.,,"6831 South Main Street Bonners Ferry, ID 83805",48.686890,-116.316565
+258,Mirror Lake Golf Course,48.672552,-116.337223,TRUE,Variety Garden (Veggies/Herbs/etc),Golf and food nourishing our local youth.,,"5686 Main Street Bonners Ferry, ID 83805",48.672552,-116.337223
+259,"USDA Forest Service, Bonners Ferry Ranger Station",48.672552,-116.337223,TRUE,Variety Garden (Veggies/Herbs/etc),Do right and feed everyone.,,"6286 Main Street Bonners Ferry, ID 83805",48.672552,-116.337223
 260,,,,,,,,,,
-261,,,,,,,,,,
-262,,,,,,,,,,
+261,Bushnell Law,48.696073,-116.312925,TRUE,Variety Garden (Veggies/Herbs/etc),A very nice compliment of vegetables along with the lovely flower barrels.,,"6430 Kootenai Street Bonners Ferry, ID 83805",48.696073,-116.312925
+262,"University of Idaho Extension, Boundary County",48.696218,-116.312877,TRUE,Salad Garden,"We have a beautiful trough of fresh lettuce available for anyone needing an addition to their sandwich! UI Extension Boundary County provides research-based educational programs on canning, gardening, agriculture, and food safety as well as 4-H programming and problem-solving for the community. See https://www.uidaho.edu/extension/county/boundary for more information. Visit us from 8-5, Monday through Friday, and check out all the resources available to you here.",,"6447 Kootenai Street, Bonners Ferry, ID 83805",48.696218,-116.312877
 263,,,,,,,,,,
 264,,,,,,,,,,
 265,,,,,,,,,,
