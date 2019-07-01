@@ -167,6 +167,7 @@ $(document).ready( function() {
                 if (items.length <= 1) {
                     continue;
                 }
+                console.log(items[0] + ' ' + items[1] + ' ' + items.length);
                 // skip if the final field (ENABLED) is false:
                 if (items[ENABLED_INDEX].strip() == "FALSE") {
                     continue;
