@@ -1,11 +1,11 @@
 Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,TRUE,Latitude,Longitude
 1,Williams Garden,46.863766,-96.765343,TRUE,,,,"1011 10th St S, Moorhead, MN 56560",46.863766,-96.765343
-2,The MidMo Garden,46.859273,-96.761660,TRUE,Variety Garden (Veggies/Herbs/etc),Little Free Garden #2 is located in the heart of Moorhead between Concordia College and MSUM. This garden is designed with the traditional Scandinavian Rosemaling design and features tomatoes and kale. Kale is the One Vegetable One Community Vegetable of the Year. ,,"1505 12th St S, Moorhead, MN 56560",46.859273,-96.761660
-3,APT Garden,46.880409,-96.782722,TRUE,,,,"225 4th Ave N., Fargo, ND 58103",46.880409,-96.782722
+2,The MidMo Garden,46.859273,-96.761660,TRUE,Variety Garden (Veggies/Herbs/etc),"Little Free Garden #2 is located in the heart of Moorhead between Concordia College and MSUM. This garden is designed with the traditional Scandinavian Rosemaling design and features a variety of herbs (rosemary, thyme and basil) as well as sorrell - a delicious lemony leafy green! ",,"1505 12th St S, Moorhead, MN 56560",46.859273,-96.761660
+3,APT Garden,46.880409,-96.782722,TRUE,,,,"2201 9th St S, Fargo ND 58103",46.880409,-96.782722
 4,The OG Garden,46.863083,-96.761667,TRUE,,,,"1101 12th St S, Moorhead, MN 56560",46.863083,-96.761667
 5,Myers Garden,46.882244,-96.753249,TRUE,Variety Garden (Veggies/Herbs/etc),We have planted Zucchini and Kale this year.,,"617 17th St N., Moorhead, MN 56560",46.882244,-96.753249
-6,Kragnes/Hall Garden,46.870118,-96.766823,TRUE,,,,"417 9th Street S, Moorhead, MN 56560",46.870118,-96.766823
-7,Kohler Garden,46.760003,-96.445269,TRUE,,,,"9049 169th St S, Barnesville, MN 56514",46.760003,-96.445269
+6,Little Free Garden #8,46.870118,-96.766823,TRUE,Variety Garden (Veggies/Herbs/etc),Variety garden.,,"417 9th Street S, Moorhead, MN 56560",46.870118,-96.766823
+7,Kohler Garden,46.760003,-96.445269,FALSE,,,,"9049 169th St S, Barnesville, MN 56514",46.760003,-96.445269
 8,Peppers and Tomatoes!,46.865179,-96.796955,TRUE,Variety Garden (Veggies/Herbs/etc),"We chose to create a Free Little Garden to do our part in increasing community access to healthy, fresh foods.  Our garden is stocked with some favorite veggie staples: peppers and tomatoes!  We've also lined the garden with zinnias to support our local pollinators.  After all, without them, our Free Little Garden would not be possible!",,"1105 10th Ave S., Fargo, ND 58103",46.865179,-96.796955
 9,Syverson Garden,46.853390,-96.815251,TRUE,,,,"1726 Whitestone Cr S., Fargo, ND 58103",46.853390,-96.815251
 10,Kurtz Garden,46.853015,-96.815272,TRUE,,,,"1732 White Stone Cr S., Fargo, ND 58103",46.853015,-96.815272
@@ -20,7 +20,7 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,TRUE,Latitude,Longitude
 19,Granlund Garden,46.828779,-96.871802,TRUE,,,,"3409 50th St S., Fargo, ND 58104",46.828779,-96.871802
 20,Everbearing Garden,46.856598,-96.774509,TRUE,Variety Garden (Veggies/Herbs/etc),"okra, green beans, beets, lettuce, carrots, chocolate mint, basil, nasturtium",,"1802 3rd St S., Moorhead, MN 56560",46.856598,-96.774509
 21,Ngunjiri Garden,46.839799,-96.761282,TRUE,,,,"3405 12th St S., Moorhead, MN 56560",46.839799,-96.761282
-22,Village Green Garden,46.840809,-96.743728,TRUE,Variety Garden (Veggies/Herbs/etc),Our son made us do it. ;) We enjoy gardening and want to provide food for others. Mixed Veggies & Flowers,,"2323 33rd Ave S., Moorhead, MN 56560",46.840809,-96.743728
+22,Village Green Garden,46.840809,-96.743728,FALSE,Variety Garden (Veggies/Herbs/etc),Our son made us do it. ;) We enjoy gardening and want to provide food for others. Mixed Veggies & Flowers,,"2323 33rd Ave S., Moorhead, MN 56560",46.840809,-96.743728
 23,Sanders Garden,46.829844,-96.853174,TRUE,,,,"3306 Washington St., Fargo, ND 58104",46.829844,-96.853174
 24,Baggett Garden,46.838739,-96.754015,TRUE,,,,"1559 35th Ave S., Moorhead, MN 56560",46.838739,-96.754015
 25,Dambach Family Garden,46.852869,-96.792486,TRUE,,,,"1745 8th St S., Fargo, ND 58103",46.852869,-96.792486
@@ -120,7 +120,7 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,TRUE,Latitude,Longitude
 118,Little Free Garden #118,46.778744,-96.661448,TRUE,,,,"237 6th Ave W, Sabin, MN 56580",46.778744,-96.661448
 119,Little Free Garden #119,46.829723,-96.857126,TRUE,,,,"3308 Monroe St, Fargo, ND 58104",46.829723,-96.857126
 120,Little Free Garden #120,46.917591,-96.782812,TRUE,,,,"241 30th Ave N, Fargo, ND 58102",46.917591,-96.782812
-121,Little Free Garden #121,46.915735,-96.793406,TRUE,,,,"3002 10th St N #2, Fargo, ND 58102",46.915735,-96.793406
+121,Little Free Garden #121,46.915735,-96.793406,FALSE,,,,"3002 10th St N #2, Fargo, ND 58102",46.915735,-96.793406
 122,Little Free Garden #122,46.840958,-96.751229,TRUE,,,,"3320 17th St S, Moorhead, MN 56560",46.840958,-96.751229
 123,Little Free Garden #123,44.946401,-93.358624,TRUE,,,,"3205 Colorado Ave S, St Louis, MN 55416",44.946401,-93.358624
 124,Little Free Garden #124,46.854833,-96.825752,TRUE,,,,"1667 W Gateway Cir S, Fargo, ND 58103",46.854833,-96.825752
@@ -241,22 +241,31 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,TRUE,Latitude,Longitude
 239,Little Free Garden #239,46.856497,-96.788230,TRUE,,,,"1525 5th St S., Fargo, ND 58103",46.856497,-96.788230
 240,Little Free Garden #240,44.913642,-93.213614,TRUE,,,,"4911 41st Ave S., Minneapolis, MN 55417",44.913642,-93.213614
 241,Little Free Garden #241,46.836677,-96.724077,TRUE,,,,"3606 Westmoor Blvd, Moorhead, MN 56560",46.836677,-96.724077
-242,,,,,,,,,,
-243,,,,,,,,,,
-244,,,,,,,,,,
-245,,,,,,,,,,
-246,,,,,,,,,,
+242,Keeping You Well Garden,48.702894,-116.321530,TRUE,Variety Garden (Veggies/Herbs/etc),"Nutrition is an important part of wellness. Dr. Layeux and the Boundary Community Clinics staff have planted tomatoes, cucumbers and edible flowers (nasturtiums) to showcase their commitment to the health of the community.",,"6641 Kaniksu Street, Bonners Ferry, ID 83805",48.702894,-116.321530
+243,E. L. Internet Northwest,48.755954,-116.287523,TRUE,Variety Garden (Veggies/Herbs/etc),"100% Local and Committed to Personal Customer Service
+In Boundary County, Idaho – We Have You Covered
+E.L. Internet Northwest provides high quality and reliable internet service, as well as Cable Television and Telephone services.",,"64 Automation Lane, Bonners Ferry, ID 83805",48.755954,-116.287523
+244,Riverside Auto Center,48.697021,-116.314930,TRUE,Variety Garden (Veggies/Herbs/etc),"Riverside Auto Center
+Located in the heart of """"the friendliest little town in Idaho"""", Bonners Ferry. Riverside Auto Center is a family-owned and operated dealership which has been in business since 1972! We serve the cities of Bonners Ferry, Naples, Moyie Springs, Troy, Libby, Sandpoint, Priest River, Newport and the surrounding communities. 
+
+Every car from Riverside has passed an extensive inspection to become certified by us. If it doesn't pass, we won't sell it to our customers. Only these vehicles can get the Riverside Auto Center sticker, so if it has our sticker, you know it is Riverside Certified! Riverside Auto Center is the best place for used cars in Bonners Ferry, Idaho!""",,"6437 Bonner Avenue Bonners Ferry, ID 83805",48.697021,-116.314930
+245,SurgarPlum Floral & Greenhouses,,-116.335521,TRUE,Variety Garden (Veggies/Herbs/etc),"""We have it all at SugarPlum Floral!
+At SugarPlum Floral, we strive to be Bonners Ferry, Idaho local source for perennials, annuals, fresh cut flowers, fruit trees and ornamentals. And that's just the icing on the cake! We have a wide variety of gifts, garden seeds, potting soil and ceramic pots to put it all in! If we don't have it, we can probably get it for you.""",,"6368 Main Street Bonners Ferry, ID 83805",48.674998,-116.335521
+246,Mountain Mike's Health Food Store,,-116.330620,TRUE,Variety Garden (Veggies/Herbs/etc),"We are a family owned and operated health food store located in beautiful Bonners Ferry, Idaho.
+Our mission is to serve as a positive influence on our community by offering a friendly atmosphere, excellent customer service, a wide variety of health related resources, and a dedication to supporting wholesome products for both the mind and body. 
+ We're proud to offer all the products you’d expect to find in a health food store, such as a wide variety of vitamins and natural supplements, homeopathic medicines, tinctures, essential oils, and loose herbs, but we also carry some unexpected and unique products we think you’ll enjoy as well! Some of our favorite offerings include a selection of imported cheeses, handcrafted cards and gift items, a wide variety of specialty grocery items, bulk foods and spices, all-natural beauty products, delicious chocolate bars, and healthy snack food options.""",,"6486 Main Street Bonners Ferry, ID 83805",48.677975,-116.330620
 247,,,,,,,,,,
 248,,,,,,,,,,
 249,Little Free Garden Portugal,38.768652,-9.161851,TRUE,,,,"R. Mário Sampaio Ribeiro, 1600-760, Lisboa, Portugal",38.768652,-9.161851
 249,Little Free Garden Portugal,38.768652,-9.161851,TRUE,,,,"R. Mário Sampaio Ribeiro, 1600-760, Lisboa, Portugal",38.768652,-9.161851
-251,Under the Sun and Soul Shine,48.696485,-116.312537,TRUE,Variety Garden (Veggies/Herbs/etc),Our back patio.,,"7178 Main Street Bonners Ferry, ID 83805",48.696405,-116.312188
+251,Under the Sun and Soul Shine,48.696485,-116.312188,TRUE,Variety Garden (Veggies/Herbs/etc),Our back patio.,,"7178 Main Street Bonners Ferry, ID 83805",48.696405,-116.312188
 252,North Idaho Family Dentistry,48.687811,-116.315826,TRUE,Variety Garden (Veggies/Herbs/etc),Tomatoes and peppers to enjoy.,,"6503 Harrison Street, Bonners Ferry, ID 83805",48.687811,-116.315826
 253,Trinity Lutheran Church,48.685934,-116.320203,TRUE,Variety Garden (Veggies/Herbs/etc),"The time of year to plant quick growing food: radish, carrots, spinach and lettuce.",,"6784 Cody Street Bonners Ferry, ID 83805",48.685934,-116.320203
-254,The Nest,48.696418,-116.31252,TRUE,Variety Garden (Veggies/Herbs/etc),Growing vegetables at our alley location.,,"7174 Main Street Bonners Ferry, ID 83805",48.696344,-116.312176
+254,The Nest,48.696418,-116.312176,TRUE,Variety Garden (Veggies/Herbs/etc),Growing vegetables at our alley location.,,"7174 Main Street Bonners Ferry, ID 83805",48.696344,-116.312176
 255,Kootenai Tribe of Idaho,48.707378,-116.369813,TRUE,Variety Garden (Veggies/Herbs/etc),"Full sun vegetable garden. A message from Gary Aitken Jr. Ki suk kyukyit, Our proud people have been stewards of this fine land since time immemorial. When placed here, the creator made a covenant with the Ktunaxa people telling us “I have created you Kootenai people to look after this beautiful land, to honor, and guard, and celebrate my creation here, in this place. As long as you do that, this land will meet all of your needs…” This covenant has been our sacred doctrine and driving force ever since. It was set forth in our beginning and we hold it dear to this very day. Overcoming adversity and rising above challenges is the hallmark of our people. Resiliency is carried with us as a badge of honor. A long line of strong leadership with a prescient emphasis on securing a better future for our people has led to our success. Our love of our people and community has helped us work with an extraordinary amount of people, including governmental and non-governmental entities, to achieve common goals and help us benefit our community as well as do our part to uphold our covenant. The collaborative efforts have led us to develop thriving relationships that span cultural, social, jurisdictional, political, and geographical boundaries. Recognizing that all things are connected has led to the Kootenai Tribe being innovators in ecosystem recovery. The holistic approach that comes natural to our people has provided a clear path forward in our species restoration efforts. We, as a Tribe, are proud of the remarkable ecosystem work we have been able to accomplish. We are also proud of our business ventures such as the Kootenai River Inn Casino and Spa. Our sumptuous resort has provided the Tribe and its member’s financial stability and has been a tremendous enhancement to the local community and economy. Through the success of our resort we are able to provide our people education and employment opportunities, as well as supplement programs designed for our members’ health and well-being. In our territory, farther than the eye can see, there are no places that Kootenai footsteps have not touched. With forward-minded guidance, continued honoring of past accomplishments and struggles, and a respectful way of engaging others, we will move forward into the future in a good way. Hu suki q’ukni. Gary Aitken, Jr.",,"85 Little Bear Road Bonners Ferry, ID 83805",48.707378,-116.369813
 256,Looking Good Hair Studio,48.689764,-116.316504,TRUE,Tomato Garden,"New to gardening,  I will be experimenting with companion planting.  Tomato and sweet basil.  Aromatic herbs and summer flowering plants are beneficial to the vegetable garden because they enliven and stimulate the sometimes heavy and monotonous quality of some vegetable plants. ",,"6926 South Main Street Bonners Ferry, ID 83805",48.689764,-116.316504
-257,Live Edge Productions,48.686890,-116.316565,TRUE,Variety Garden (Veggies/Herbs/etc),Unique site for vegetables along with a generous donation of plants for other Little Free Gardens in the community.,,"6831 South Main Street Bonners Ferry, ID 83805",48.686890,-116.316565
+257,CENTURY 21 Four Seasons Realty,48.678888,-116.328029,TRUE,Variety Garden (Veggies/Herbs/etc),"When you choose to work with one of our agents at Century 21 Four Seasons Realty in Bonners Ferry, Idaho. 
+You get access to an entire team of top-notch real estate professionals who are focused on you and your needs.",,"6521 Walker Lane Bonners Ferry, Idaho 83805",48.678888,-116.328029
 258,Mirror Lake Golf Course,48.656345,-116.341679,TRUE,Variety Garden (Veggies/Herbs/etc),Golf and food nourishing our local youth.,,"5686 Main Street Bonners Ferry, ID 83805",48.6725518,-116.3372227
 259,"USDA Forest Service, Bonners Ferry Ranger District",48.672608,-116.338147,TRUE,Variety Garden (Veggies/Herbs/etc),A variety of Peppers and Tomatoes. Do Right and Feed Everyone,,"6282 Main Street Bonners Ferry, ID 83805",48.672552,-116.337223
 260,Rawlings Community Counseling,48.686588,-116.319609,TRUE,Variety Garden (Veggies/Herbs/etc),Our Mission is to create an atmosphere for making life more meaningful.,,"6807 Cody Street Bonners Ferry, ID 83805",48.686588,-116.319609
@@ -270,7 +279,9 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,TRUE,Latitude,Longitude
 268,Far-North Logo Shop,48.686429,-116.317429,TRUE,Variety Garden (Veggies/Herbs/etc),Make It Yours! - a Little Free Garden - Get Outside!,,"6808 Main Street Bonners Ferry, ID 83805",48.686130,-116.318880
 269,Yoder's Market,48.728471,-116.302785,TRUE,Variety Garden (Veggies/Herbs/etc),"A delightful display of plants in two locally made cedar box gardens. For your shed and Chicken Coop needs stop in at Yoder's Market just north of Bonners Ferry, ID. We custom build with a quality and prices to be proud of. Free Delivery and set up within 50 miles. Rent to own with no credit check on any Shed, Cabin or Garage.
   ",,"56 Plato Drive Bonners Ferry, ID 83805",48.728471,-116.302785
-270,,,,,,,,,,
+270,USDA Boundary Soil Conservation District,48.686241,-116.316334,TRUE,Salsa Garden,"Farmers and Private Landowners Help Wetlands Thrive in Idaho. 
+The Ball Creek wetland is located in Kootenai River Floodplain north of Bonners Ferry, Idaho. The Nature Conservancy holds the easement on 530 acres of wetland habitat with a small upland component. Wildlife that benefits from this wetland includes grizzly bears, white sturgeon and burbot.
+",,"6813 El Paso Street Bonners Ferry, ID 83805",48.686241,-116.316334
 271,Little Free Garden 271,32.729179,-117.170332,TRUE,,,,"2355 India Street, San Diego, CA 92101",32.729179,-117.170332
 272,,,,,,,,,,
 273,,,,,,,,,,
@@ -291,7 +302,7 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,TRUE,Latitude,Longitude
 288,,,,,,,,,,
 289,Little Free Garden #289,44.924138,-93.394312,TRUE,,,,"9 Jackson Ave S., Hopkins, MN 55343",44.924138,-93.394312
 290,Little Free Garden #290,46.580181,-116.714444,TRUE,,,,"207 1st Avenue, Juliaetta, ID 83535",46.580181,-116.714444
-291,Little Free Garden #291,43.007704,-89.440187,TRUE,,,,"5731 Pembroke Drive, Fitchburg, WI 53711",43.007704,-89.440187
+291,Pembroke Preserves,43.007704,-89.440187,TRUE,Variety Garden (Veggies/Herbs/etc),Year 1 - 4 varieties of Kale; healthy & sustainable,,"5731 Pembroke Drive, Fitchburg, WI 53711",43.007704,-89.440187
 292,,,,,,,,,,
 293,,,,,,,,,,
 294,,,,,,,,,,
@@ -322,5 +333,19 @@ Unique ID,Title,lat,lng,Enabled,Garden Type,Description,,TRUE,Latitude,Longitude
 319,,,,,,,,,,
 320,,,,,,,,,,
 321,,,,,,,,,,
-322,,,,,,,,,,
+322,Little Free Garden at Art in Motion,45.735065,-94.470717,TRUE,,,,"1400 4th Street, Holdingford, MN 56340",45.735065,-94.470717
 323,Little Free Garden #323,34.079300,-84.300184,TRUE,,,,"180 Meadow Dr., Alpharetta, GA 30009",34.079300,-84.300184
+324,Little Free Garden #324,30.393144,-88.764074,TRUE,,,,"9341 Cavalier Circle, Ocean Springs, MS 39564",30.393144,-88.764074
+325,Little Free Garden #325,43.069358,-87.996609,TRUE,,,,"2761 N 67th St., Milwaukee, WI 53210",43.069358,-87.996609
+326,Little Free Garden #326,43.554365,-90.885857,TRUE,,,,"320 E Terhune St., Viroqua, WI 54665",43.554365,-90.885857
+327,Little Free Garden #327,45.946322,-95.351338,TRUE,,,,"1771 County Rd 120 E, Alexandria, MN 56308",45.946322,-95.351338
+328,Little Free Garden #328,46.847436,-96.792889,TRUE,,,,"819 21st Ave S., Fargo, ND 58103",46.847436,-96.792889
+329,Little Free Garden #329,42.034396,-87.840103,TRUE,,,,"8437 N Greenwood Ave, Niles, IL 60714",42.034396,-87.840103
+330,Little Free Garden #330,39.096331,-84.475731,TRUE,,,,"915 Clayton Ct., Bellevue, KY 41073",39.096331,-84.475731
+331,Little Free Garden #331,46.831560,-96.748349,TRUE,,,,"1834 42nd Ave S., Moorhead, MN 56560",46.831560,-96.748349
+332,Little Free Garden #332,46.859653,-96.712746,TRUE,,,,"4210 16th Ave S., Moorhead, MN 56560",46.859653,-96.712746
+333,Homewood Ave.,44.790757,-88.582382,TRUE,Variety Garden (Veggies/Herbs/etc),Veggies & herbs,,"W6777 Homewood Ave  Shawano, Wi",44.790757,-88.582382
+334,,,,,,,,,,
+335,,,,,,,,,,
+336,,,,,,,,,,
+337,Heroes & Warriors,44.441538,-95.788609,TRUE,Variety Garden (Veggies/Herbs/etc),"This garden is in honor of two of our favorite groups of people: organ donors (superheroes) and soldiers/veterans (warriors).  Our son who was killed at age 12 loved to help elderly friends garden and always looked out for those who might be left out, overlooked, or forgotten.  He was an organ donor.  He was also very patriotic and was concerned about the plight of returning soldiers like his dad.  This garden is a personal tribute to those who make sacrifices for others. ",,"206 Deschepper St, Marshall, MN 56258",44.441538,-95.788609
