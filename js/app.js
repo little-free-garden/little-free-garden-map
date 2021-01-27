@@ -5,6 +5,8 @@ var basemap = L.tileLayer(baseUrl, {
     id: mapboxId,
 });
 
+// var map2 = L.mapbox.styleLayer('mapbox://styles/blainebooher/cjvzrk9oo1ivo1clciegpo8no');
+
 var center = new L.LatLng(0, 0);
 var map = new L.Map('map', {center: center, zoom: 2, maxZoom: maxZoom, layers: [basemap]});
 
@@ -121,6 +123,10 @@ function populateTypeAhead(csv, delimiter) {
         var items = lines[i].split(delimiter);
         // skip if the final field (ENABLED) is false:
         if (items[ENABLED_INDEX] == "FALSE") {
+            continue;
+        }
+        console.log(items);
+        if (items.length === 1) {
             continue;
         }
 

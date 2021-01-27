@@ -3,7 +3,7 @@ var maxZoom = 18;
 var fieldSeparator = ',';
 //var baseUrl = 'http://a.tile.openstreetmap.org/{z}/{x}/{y}.png';
 var baseUrl = 'https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoiYm9vaGVyYmciLCJhIjoiY2lxeHltenZtMDFwaWZsbThyd2ZxcGJkOCJ9.e-an2PAGrTEVnNWPOucpsQ';
-var mapboxId = 'booherbg.0o039ifb';
+var mapboxId = 'mapbox.mapbox-streets-v8';
 var baseAttribution = '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>';
 var subdomains = '1234';
 var clusterOptions = {showCoverageOnHover: false, spiderfyOnMaxZoom: false, maxClusterRadius: 50, disableClusteringAtZoom: 12};
